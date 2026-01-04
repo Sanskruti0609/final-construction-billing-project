@@ -1,0 +1,2627 @@
+[
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "1",
+        "Description of Work": "Providing and Casting RCC bored cast in-situ Vertical 800 mm as per IS 2911 (Part 1, Section 2) by boring through all kinds of soils/ Sand /Rock by rotary hydraulic rigs using temporary casing up to stable strata / bentonite mud circulation as specified, from tip to cut-off elevation of piles. Reinforced Cement Concrete work of filling the bore (after placement of reinforcement cage as per drawing) with M35 grade Ready Mix Concrete using 43 Grade Ordinary Portland Cement confirming to IS : 8112, of approved make and brand with minimum cement content of 400 kg/m3 and with water -cement ratio, including the water contained in aggregates (10mm to max 20mm size), not exceeding 0.45, with approved plasticizer as specified, including placing of concrete from tip to minimum of 600mm above the specified cutoff level, breaking pile head to cutoff level and exposing pile reinforcement for embedment in pile cap, Disposing & levelling of bored/excavated material suitably at locations approved by the local authorities including all lead and lifts, all complete for piles having diameter of (Pile will be measured for payment for length between pile tip to cut-off level along the pile axis. Reinforcement shall be paid separately) Note : Cost of temporary casing shall be incurred by the Contractor.",
+        "Quantity": "4144"
+    },
+    {
+        "BOQ_Item_No.": "2",
+        "Description of Work": "Providing and maintaining Barricading on the site 5 m high by using MS Pipes or angle iron frame work of verticals at 3 m c/c and horizontals at 0.90 m c/c, Galvalume sheets, Struts, MS Clamps, etc. The verticals shall be embedded/ fixed to concrete pedestals below ground. The rate to include fabricating, cutting and fixing in position MS frame work, painting the same with two coats of approved anti rust paint, etc complete. Contractor to get structural design approved by the Engineer. Contractor shall remove and take away the barricading at his own cost on completion of the works",
+        "Quantity": "324"
+    },
+    {
+        "BOQ_Item_No.": "3",
+        "Description of Work": "Carrying out load test for 1.5 times the proposed safe working load on the pile in driven position above 750 mm and upto 825 mm diameter including construction of test cap, use of accessories and instruments including providing graphs as per I.S. code or Std.Specifications and dismantling the test cap after testing and cleaning the site complete",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "4",
+        "Description of Work": "Integrity testing of Pile using Low Strain/ Sonic Integrity Test/ Sonic Echo Test method in accordance with IS 14893 including surface preparation of pile top by removing soil, mud, dust & chipping lean concrete lumps etc. and use of computerised equipment and high skill trained personal for conducting the test & submission of results, all complete as per direction of Engineer-in-charge.",
+        "Quantity": "290"
+    },
+    {
+        "BOQ_Item_No.": "5",
+        "Description of Work": "Providing and fabricating structural steel work in rolled sections like joists, channels, angles, tees etc. as per detailed design and drawings or as directed including cutting, fabricating, hoisting, erecting, fixing in position making riveted / bolted /welded connections without connecting plates, braces etc. and including one coat of anticorrosive paint and over it two coats of oil painting of approved quality and shade etc. complete.",
+        "Quantity": "33.11866"
+    },
+    {
+        "BOQ_Item_No.": "6",
+        "Description of Work": "Excavation for foundation in earth, soil of all types, sand, gravel and soft murum, including removing the excavated material up to a distance of 50 m. beyond the building area and stacking and spreading as directed, dewatering, preparing the bed for the foundation and necessary back filling, ramming, watering including shoring and strutting etc. complete. (Lift upto 1.5 m.) By Mechanical Means",
+        "Quantity": "3167.02275"
+    },
+    {
+        "BOQ_Item_No.": "7",
+        "Description of Work": "Excavation for foundation in earth, soil of all types, sand, gravel and soft murum, including removing the excavated material up to a distance of 50 m. beyond the building area and stacking and spreading as directed, dewatering, preparing the bed for the foundation and necessary back filling, ramming, watering including shoring and strutting etc. complete. (Lift from 1.5 m to 3.0 m) By Mechanical Means",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Excavtion In soil (Lift from 1.5 m to 3.0 m)",
+        "Quantity": "1543.45165"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Excavtion In soil (Lift from 3.0 m to 4.5 m)",
+        "Quantity": "230.7527"
+    },
+    {
+        "BOQ_Item_No.": "8",
+        "Description of Work": "Disposal of building rubbish / malba / similar unserviceable, dismantled or waste materials by mechanical means including loading, transporting, unloading to approved municipal dumping ground or as approved by Engineer-in-charge, beyond 50 m initial lead, for all loads including all lifts involved. for 50 Km Lead.",
+        "Quantity": "8145.056"
+    },
+    {
+        "BOQ_Item_No.": "9",
+        "Description of Work": "Providing preconstructional antitermite treatment as per S. 6313 (Part-II) by treating the bottom surface and sides of excavation at the rate of 5 litres of emulsion concentrate of 1.0 percent of chlorophyri fos per square meter surface area covering 10 years guarantee on bond paper. Spec.",
+        "Quantity": "1786"
+    },
+    {
+        "BOQ_Item_No.": "10",
+        "Description of Work": "Providing preconstructional antitermite treatment as per I.S. 6313 (Part-I) to the soil along the external face of building by punching holes of 1.2 of 1.5 C.M. diametre about 30 -60 cm deep at 15 cm c/c as close to the wall as possible and to inject 0.5 percent of aldrin or clorophyrifos at the rate of 7.5 litres per hole and sealing the same with proper filling and covering 10 years guarantee on bond paper.",
+        "Quantity": "145.0632"
+    },
+    {
+        "BOQ_Item_No.": "11",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete in M20 of trap/ granite/quartzite/gneiss metal for bed blocks, foundation blocks and such other items including bailing out water, Steel centering, formwork, laying/ pumping, compacting, roughening them if special finish is to be provided, finishing uneven and honeycombed surface and curing etc. complete. The Cement Mortar 1:3 plaster is considered for rendering uneven and honeycombed surface only. Newly laid concrete shall be covered by gunny bag, plastic, tarpaulin etc. (Wooden centering will not be allowed.), with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "335.1555"
+    },
+    {
+        "BOQ_Item_No.": "12",
+        "Description of Work": "Providing dry/ trap/ granite/ quartzite/ gneiss rubble stone soling 15 cm to 20 cm thick including hand packing and compacting etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "831.9255"
+    },
+    {
+        "BOQ_Item_No.": "13",
+        "Description of Work": "Providing and fixing 20 to 25 mm thick rough shahabad box type waterproofing for basement or underground floor on a base of Cement concrete 1:3:6, including sub base of 2.50 centimeter thick Cement mortar 1:3 with conceal, secrete (RMW), Algae proof or other alike waterproofing liquids, raking of joints upto 35 mm depth, filling the joints with 6 mm size crushed metal, hand grouting with cement slurry, curing and cleaning, with 7 years guarantee on court fee stamp of Rs. 100/- with ponding test etc complete. (excluding Cement concrete 1:3:6 base concrete )",
+        "Quantity": "90.2"
+    },
+    {
+        "BOQ_Item_No.": "14",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete in M-25 of trap/ granite/ quartzite/ gneiss metal for R.C.C. pardi of required thickness including steel centering, formwork, cover blocks, laying/pumping, compacting and roughening them if special finish is to be provided and curing complete. (Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st",
+        "Quantity": "11.3592"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st",
+        "Quantity": "159.0288"
+    },
+    {
+        "BOQ_Item_No.": "15",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mixcement concrete M-25 of trap/ granite/ quartzite/ gneiss metal for R.C.C. chajja as per detailed design and drawings including steel centering, formwork, cover blocks, laying/pumping, compacting and roughening the surface if special finish is to be provided and curing complete. (Excluding reinforcement and structural steel). with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st ",
+        "Quantity": "27.858375"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st to 15th floor and terrace",
+        "Quantity": "195.008625"
+    },
+    {
+        "BOQ_Item_No.": "16",
+        "Description of Work": "Providing and fixing 20 to 25 mm thick rough shahabad box type waterproofing treatment to vertical outside faces of Reinforced Cement concrete walls of basement or underground floor including filling the gap of 25 mm between rough shahabad and R.C.C. walls with cement grout mixed with water proofing liquid Algae proof or other alike with one tile lift method, brushing the joints horizontally with cement slurry mixed with water proofing liquid for width 30 to 35 mm and sloping coping over topmost tile with cement mortar 1:3, butting the bottom most with Cement concrete 1:2:4 mixed with water proofing liquid, curing, with 7 years guarantee on court fee stamp of Rs.100/- with ponding test etc complete. (excluding Cement concrete 1:3:6 base concrete)",
+        "Quantity": "211.6"
+    },
+    {
+        "BOQ_Item_No.": "17",
+        "Description of Work": "Providing and fixing in position HCRM/CRS (Corrosion Resistant Steel) bar reinforcement of various diameters for R.C.C. pilecaps, footings, foundations, slabs, beams, columns, canopies, staircase, newels,chajjas, lintels pardis, copings, fins,arches etc. as per detailed designs,drawings and schedules including cutting, bending, hooking the bars,binding with wires or tack welding and supporting as required complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "720.275"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st to 15th floor and terrace",
+        "Quantity": "1356.955"
+    },
+    {
+        "BOQ_Item_No.": "18",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete M-40 of trap / granite/quartzite/ gneiss metal for R.C.C. work in foundations like raft, strip foundations, grillage and footings of R.C.C. columns and steel stanchions etc. columns as per detailed designs and drawing or as directed including steel centering, formwork, cover blocks, laying/pumping, compaction finishing the formed surfaces with cement mortar 1:3 of sufficient minimum thickness to give a smooth and even surface or roughening if special finish is to be provided and curing etc. complete. (Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": "1627.0965"
+    },
+    {
+        "BOQ_Item_No.": "19",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete in M-30 of trap/ granite/ quartzite/ gneiss metal for R.C.C. pardi of required thickness including steel centering, formwork, cover blocks, laying/pumping, compacting and roughening them if special finish is to be provided and curing complete. (Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": "54"
+    },
+    {
+        "BOQ_Item_No.": "20",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete M-40 of trap / granite/quartzite/ gneiss metal for R.C.C. columns as per detailed designs and drawing or as directed including steel centering, formwork, cover blocks, laying/pumping, compaction finishing the formed surfaces with cement mortar 1:3 of sufficient minimum thickness to give a smooth and even surface or roughening if special finish is to be provided and curing etc. complete,(Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "429.27152"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "2666.7477"
+    },
+    {
+        "BOQ_Item_No.": "21",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete M-40 of trap / granite/quartzite/ gneiss metal for R.C.C. beams and lintels as per detailed designs and drawings or as directed including steel centering, formwork, cover blocks, laying/pumping, compactionand roughening the surface if special finish is to be provided and curing etc. complete. (Excluding reinforcement and structural steel). with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "160.4934"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "2291.18721"
+    },
+    {
+        "BOQ_Item_No.": "22",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete M-40 of trap/ granite / quartzite/ gneiss metal for R.C.C. slabs and landings as per detailed designs and drawings including steel centering, formwork, cover blocks, laying/pumping, compaction finishing the formed surfaces with cement mortar 1:3 of sufficient minimum thickness to give a smooth and even surface or roughening if special finish is to be provided and curing etc. complete,(Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "125.57328"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "2976.41898"
+    },
+    {
+        "BOQ_Item_No.": "23",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete in M-30 of trap / quartzite /granite /gneiss metal for R.C.C. Waist slab, and steps of staircases as per detailed design and drawings or as directed including steel centering, plywood/ steel formwork, steel props, laying/pumping, compaction, finishing uneven and honeycombed surface with C.M. 1:3 of sufficient minimum thickness to give a smooth and even surface or roughening the surface if special finish is to be provided and curing etc. complete. (Excluding reinforcement, including precast concrete cover blocks of same or Higher Grade. Newly laid concrete shall be covered by gunny bag, plastic, tarpaulin etc.) with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "16.2"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "243"
+    },
+    {
+        "BOQ_Item_No.": "24",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete M-25 of trap / granite/quartzite/ gneiss metal for R.C.C. work in foundations like raft, strip foundations, grillage and footings of R.C.C. columns and steel stanchions etc. including bailing out water, Steel centering, formwork ,cover blocks, laying/pumping, compaction and curing roughening the surface if special finish is to be provided (Excluding reinforcement and structural steel) etc. complete, with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": "32.4"
+    },
+    {
+        "BOQ_Item_No.": "25",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete M-25 of trap / granite /quartzite/ gneiss metal for R.C.C. columns as per detailed designs and drawings or as directed including steel centering, formwork, cover blocks, laying/pumping, compaction finishing the formed surfaces with cement mortar 1:3 of sufficient minimum thickness to give a smooth and even surface or roughening if special finish is to be provided and curing etc. complete,(Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": "15.99696"
+    },
+    {
+        "BOQ_Item_No.": "26",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete in M-25 of trap/ granite/ quartzite/ gneiss metal for R.C.C. beams and lintels as per detailed designs and drawings or as directed including steel centering, formwork, cover blocks, laying/pumping, compactionand roughening the surface if special finish is to be provided and curing etc. complete. (Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": "33.2235"
+    },
+    {
+        "BOQ_Item_No.": "27",
+        "Description of Work": "Providing and laying Cast in situ/Ready Mix cement concrete in M-20 of trap/ granite/ quartzite/ gneiss metal for R.C.C.coping to plinth or parapet and sill of doors and windows moulded as per detailed drawings or chamfered as approved by the Engineer including steel centering, formwork, cover blocks, laying/pumping, compacting , curing , finishing and roughening them if special finish is to be provided and curing complete. (Excluding reinforcement and structural steel).with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete. With fine aggregate (Crushed sand VSI Grade)",
+        "Quantity": "11.0745"
+    },
+    {
+        "BOQ_Item_No.": "28",
+        "Description of Work": "Providing & Laying Plum concrete consisting of 80% P.C.C. mix (1:3:6) and 20% Rubble stone of maximum size of 150 mm laid in layers with ramming consolidating,watering including dewatering cost,seigniorage & conveyance of all materials,labour charges,machine mixing,finishing the surface etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "33.75"
+    },
+    {
+        "BOQ_Item_No.": "29",
+        "Description of Work": "Providing and laying in-situ M30 Grade unreinforced plain cement concrete pavement over a prepared sub base with 43 grade cement , coarse and fine aggregate ( natural sand/ VSI grade finely washed crushed sand) conforming to IS 383, using fine and coarse aggregates combined gradation as per Table 600-3 of MORTH Specification 2013, mixed in a Tilting type Concrete Mixer as per approved mix design, admixtures, spreading, laying compacting and finished in a continuous operation without paver machine, finishing to lines and grades as directed by Engineer-in-charge and curing by curing compound /by providing cement vata in cement Mortar 1:8 @0.6m X 0.6m centre to centre, admeasuring 80 mm at bottom and 40 mm at top with depth of 75mm and maintaining the same throughout curing period by any other method approved by Engineer-in-charge. with fully automatic micro processor based PLC with SCADA enabled reversible Drum Type mixer/ concrete Batch mix plant (Pan mixer) etc. complete.",
+        "Quantity": "251.1225"
+    },
+    {
+        "BOQ_Item_No.": "30",
+        "Description of Work": "Filling in plinth and floors with contractors material / brought from outside and approved by Engineer incharge in layers of 15 cm to 20 cm including watering and compaction etc. complete.",
+        "Quantity": "985.2"
+    },
+    {
+        "BOQ_Item_No.": "31",
+        "Description of Work": "Providing and fixing double scaffolding system (cuplocktype) on the exterior side of building/structure, including additional rows of scaffolding in stepped manner as per requirement of site,mad with 40mm dia M.S.tube,placed 1.5 metre centre to centre,horizontal&vertical tube sjoint with cup& lock system with M.S.Tubes,M.S.tube challis,M.S.clamps and staircase system in the scaffolding for working platform etc.and maintaining it in a serviceable condition for execution of work of cleaning and/or pointing and/ or applying chemical and removing it thereafter.The scaffolding system shall be stiffened with bracings, runners,connecting with the building etc,wherever required,if feasible,for inspection of work at required locations with essential safety features for the work men etc.,completeasperdirectionsandapprovalofEngineer-in-charge.Note: (1)Theelevationalareaofthescaffoldingshallbemeasuredforpaymentpurpose.(2)Thepayment willbemadeonceonlyforexecutionofall items for such works.",
+        "Quantity": "12584"
+    },
+    {
+        "BOQ_Item_No.": "32",
+        "Description of Work": "Providing Autoclaved Aerated Concrete Block masonary of conforming to IS:2185 (Part 3) - 1984 in extra fine jointing mortar of fixoblock of UltraTech or equivalent in superstructure including striking joints, raking out joints and scaffolding etc. Complete. (The test shall be carried out conforming to IS:6441 (Part I) - 1972)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "688.186928"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "43393.48208"
+    },
+    {
+        "BOQ_Item_No.": "33",
+        "Description of Work": "Providing and fixing chicken mesh of 22 gauge, with about 30 cm. width at the junction of R.C.C members and brick work, of approved quality including fixing mesh in position by necessary drilling in concrete /B.B.masonry and or tying by binding wire etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "562.4"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "60420"
+    },
+    {
+        "BOQ_Item_No.": "34",
+        "Description of Work": "Providing internal / external 12 mm thick Ready Mix plaster confirming to IS:4031 (Part 4) 1988 and IS383 -1970 in a single coat using Cement mortar of proportion 1:4 containing special type of polymer additives about 0.4%, to all type of surfaces in all positions including scaffolding and curing complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "6018.182908"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "61932.05566"
+    },
+    {
+        "BOQ_Item_No.": "35",
+        "Description of Work": "Providing sand faced plaster externally in cement mortar using approved screened sand, in all positions including base coat of 15 mm thick in cement mortar 1:4 using waterproofing compound at 1Kilogramper cement bag curing the same for not less than 2 days and keeping the surface of the base coat rough to receive the sand faced treatment 6 to 8 mm thick in cement mortar 1:4 finishing the surface by taking out grains and curing for fourteen days scaffolding etc.complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "3868.7758"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "15546.5756"
+    },
+    {
+        "BOQ_Item_No.": "36",
+        "Description of Work": "Providing and applying 12 mm thick (average) premixed formulated one coat gypsum lightweight plaster having additives and light weight aggregates as vermiculite/ perlite respectively conforming to IS: 2547 (Part - 1 & II) 1976, applied on hacked / uneven background such as bare brick/ block/ RCC work on walls & ceiling at all floors and locations, finished in smooth line and level etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "6018.182908"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "61932.05566"
+    },
+    {
+        "BOQ_Item_No.": "37",
+        "Description of Work": "Providing and applying Two coats of wall care Putty on plastered surface and Ceiling and Walls to prepare surface even and smooth of approved make, etc complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "3868.7758"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "15546.5756"
+    },
+    {
+        "BOQ_Item_No.": "38",
+        "Description of Work": "Providing and applying three coats of water proof cement paint of approved manufacture and of approved colour to new plastered surfaces including scaffolding if necessary, cleaning and preparing the surface, watering for two days etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "2664"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "2664"
+    },
+    {
+        "BOQ_Item_No.": "39",
+        "Description of Work": "Providing and fixing false ceiling with eco-friendly light weight calcium silicate tiles of Spintone/cosmos surface textured \"Aerolite \" make or equivalent of size 595 x 595mm having 15 mm thick densified microlook edge and 100% humidity resistence, incombustible as per BS 476 Part IV and thermal conductivity 0.043 w/m° and NRC 0.50 placed in true horizontal level suspended grid of size 600x600 mm made from hot dipped GI steel sections on Sillhoutte profile, rotary stitched double webbed white with 6mm reveal profile (white/black), where in main T runner of size 24 mm x 38mm and 0.33 mm thick @ 1200mm center to center and cross T of size 24mm X 28 mm and 0.33 mm thick, 1200 mm long spaced between main tee at 600 mm centre to centre and secondary cross T of Size 24mm X 28 mm x 0.33 thick of length 600 mm to be inter locked at middle of the first cross T in each panel to form grids of 600 mm x 600 mm and resting on periphery wall profile wall section 24 mm x 24mm x 0.40 thickness and laying false ceiling for services like diffusers grills including cutting, making opening for light fitting, fixtures, smoke detectors etc. wherever required, main tee runner to be suspended form ceiling using G.I. soffit cleats of size 25 x 35 x 1.6 mm of required length fixed to the ceiling with12.5mm dia and 50 mm long dash fastener, 4 mm dia G.l adjustable rods with good quality G.I level adjustment clips of 85 X 30 X 0.8mm spaced at 1200 mm center to center along main tee all complete at all heights as per specifications, drawings",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "1798.555086"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "741.18"
+    },
+    {
+        "BOQ_Item_No.": "40",
+        "Description of Work": "Providing waterproofing in W.C. and bath including brick bat coba in all position including providing and laying 12mm bedding in cement mortor 1:3 on vIrgin concrete slab with waterproofing compound @ 1kg/per bag of cement laying brick bat coba of required thickness in cm 1:5 with waterproofing compound 1 kg/bag of cement grouting and finishing the top layer with 20mm thick brick bedding in cm mortor 1:3 with waterproofing compound 1 kg/per bag of cement and testing the treated portion for 48 hours by pond test and covering ten years' guarantee on requisite stamp paper including curing etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "311.712"
+    },
+    {
+        "BOQ_Item_No.": "41",
+        "Description of Work": "Providing and applying two coats of protective membrane over the cured concrete surface like R.C.C. footings, columns, plinth beams etc. which will be submerged under soil so as to protect the same. Apply two pack coal tar epoxy system of Sunepoxy Coaltar of approved make & approved by Engineer in charge, having solid content ranges from 80-100%, Tack free time 4-6 hrs. Recoat after 16-24 hrs. Mix Part A and Part B of Sunepoxy Coaltar of approved make & approved by Engineer in charge in 1:1 ratio with slow speed stirrer and apply the same on a clean R.C.C. surface by brush. Allow to set for 8-10 hours and apply the second coat. The rate to include for application at all levels to various RCC elements to the satisfaction of the EIC etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "18.928"
+    },
+    {
+        "BOQ_Item_No.": "42",
+        "Description of Work": "Providing waterproof plaster in W.C. and bath 12 mm thick for dado in cement mortar 1:3 with neat finishing, floating using waterproofing compound at the rate of 1 Kilogram. per bag of cement of approved make and manufacturer and curing etc. complete. (Excluding Tiles)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "248.644"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "3471.52"
+    },
+    {
+        "BOQ_Item_No.": "43",
+        "Description of Work": "Providing and laying waterproofing tratment of 112 mm average thickness consisting of 12 mm thick layer in cement mortar 1 : 4 with water proofing compound at the rate of 1 kg per bag of cement as base, constructing and laying brick bat coba in cement mortar 1:5 with waterproofing compound at the rate of 1 kg per bag of cement and having average thickness of 80 mm and finishing with 2 mm thick cement plaster layer in cement mortar 1:4, aterproofing compound at the rate of 1 kg per bag of cement bag, laying in required position flooring of broken China mosaic (broken pieces of China chips) of approved colour and pattern including neat cement float, giving proper slopes, compaction, curing, finishing preparing bell mouth etc. including all lead , lifts and laid to proper slope to drain off water entirely including watta, Bell head or Champhered portion at the junction of parapet and work upto a height of 300 mm or as directed and covering the whole treatmnet with yten years guarantee, on requisite stamp paper etc. complete",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Terrace Water Proofing",
+        "Quantity": "1785.99675"
+    },
+    {
+        "BOQ_Item_No.": "44",
+        "Description of Work": "Providing and applying a base coat comprising of 1 KilogramPolydee-MC and 1Kilogram fresh cement after wetting the surface followed by drying the surface for 2 days, apply primer coat of TP-40 and after drying, applying Polydee-11 two component (mixing ratio 2A :1 B) ) Antibacterial food grade coating inside drinking water tank in two coats with time interval of minimum 8 hrs. covering 7 years guarantee on Court Fee Stamp Paper of Rs. 100/- etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Above 1st Floor to 5th Floor and Terrace Floor",
+        "Quantity": "463.92"
+    },
+    {
+        "BOQ_Item_No.": "45",
+        "Description of Work": "Providing and laying machine cut and mirror polished approved coloured ITALIAN MARBLE SLAB approved size, 20 mm +/- 2 mm thick of approved quality with approved qality, Italian marble inlays for flooring in required pattern on a bed of 1:4 cement mortar 25- 30 mm average thickness including neat cement float, filling joints with neat coloured cement slurry, curing, polishing and cleaning complete. ( Basic rate of ITALIAN marble Rs. 10,000/- per Sq.M) of Beige Botticino, Crema Marfil, Grey Fiasco, Spanish Grey, Light Emperador, Armani Grey",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "93.4304"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "654.0128"
+    },
+    {
+        "BOQ_Item_No.": "46",
+        "Description of Work": "Providing and laying in position flooring of telephone black / Amba White / Cat bary brown / Ruby red / Ocean Brown granite stone of approved shade and size 18 mm to 20 mm thick on bed 1:6 cement mortar including cement floats striking joints, pointing in C.M. 1:3 curing and cleaning etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "158.799"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "918"
+    },
+    {
+        "BOQ_Item_No.": "47",
+        "Description of Work": "Providing and Laying Fully vetrified mirror / glossy finish Tiles having size 1000 mm x 1000 mm size tiles of 10 to 12 mm thickness and confirming IS. 15622-2006 of approved make, shade, pattern, double charge for flooring in required position laid on bed of 1:4 cement mortar including neat cement float, filling joints, curing and cleaning etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "2760.310453"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "20117.28086"
+    },
+    {
+        "BOQ_Item_No.": "48",
+        "Description of Work": "Providing and laying vitrified rustic matt stone finish tiles having size 590 mm to 605 mm x 590 mm to 605 mm of 8 to 10mm thickness and confirming to IS. 15622-2006 (Group Bla) of approved make, shade and pattern for flooring in required position laid on a bed of 1:4 cement mortar including neat cement float, filling joints, curing and cleaning etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "136.67282"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "1558.56"
+    },
+    {
+        "BOQ_Item_No.": "49",
+        "Description of Work": "Providing and laying machine cut machine polished machine cut Kota stone slabs 20 to 25 mm thick for treads and risers of steps and staircases, with rounded nosing for the treads on a bed of 1:4 cement mortar including cement float, filling joints with neat cement slurry, curing, polishing and cleaning etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "13.5"
+    },
+    {
+        "BOQ_Item_No.": "50",
+        "Description of Work": "Providing and laying machine cut machine Polished Kota stone flooring 25mm to 30mm thick and required width in plain/ diamond pattern on bed of 1:6 C. M. including cement float, filling joints with neat cement slurry, curing, polishing and cleaning etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "9.234"
+    },
+    {
+        "BOQ_Item_No.": "51",
+        "Description of Work": "Providing and laying vitrified mirror / glossy finish tiles having size 590 mm to 605 mm x 590 mm to 605 mm of 8 to 10 mm thickness and confirming to IS. 15622-2006 ( group Bla) of approved make, shade and pattern for dado and skirting in required position fixed in 1:4 cement mortar including neat cement float, filling joints, curing and clearing etc. complete",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "228.5917"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "7878.4864"
+    },
+    {
+        "BOQ_Item_No.": "52",
+        "Description of Work": "Providing and laying telephone black / Amba White / Cadbury brown / Rubyred / Ocean Brown granite stone of 18 to 20 mm thick for door frame / dado / window boxing etc. On C.M. 1:6 including filling joints with polymer base filler nosing / moulding the sharp edges where ever necessary, curing, etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "343.52"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "5372.02"
+    },
+    {
+        "BOQ_Item_No.": "53",
+        "Description of Work": "Providing and fixing machine cut and mirror polished approved coloured ITALIAN MARBLE CLADDING with inlays of approved size,20mm +2mm thk. Of approved quality for required patternon a bed of 1:4 CM 25mm average thickness including neat cement float,filling joints with neat coloured pigment, curing, polishing and cleaning etc.complete. (Basic rate of ITALIAN marble Rs.10,000/-per Sq.M) of Beige Botticino, Crema Marfil, Grey Fiasco, Spanish Grey, Light Emperador, Armani Grey",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "84.16"
+    },
+    {
+        "BOQ_Item_No.": "54",
+        "Description of Work": "Providing and fixing oval type under counter wash hand basin of 16 inch x 22 inch size and of special colour shade having telephonic black / coloured granite of 180 mm thick stone black kadappa framework including chromium plated coupling bottle - Trap using CERA company or equivalent oval typa wash basin model no 3448 as per detailed drawing or as directed by engg incharge etc complete. (Counter size 1.20 m x 0.60 m )",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "36"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "356"
+    },
+    {
+        "BOQ_Item_No.": "55",
+        "Description of Work": "Fire Door 55 mm 2HR FRL (120/120) 3 Criteria-INTEGRITY/ INSULATION/ STABILITY WOODEN DOOR - Fire Door Tested in accordance to IS: 3614 Part 2.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Providing of 120 min Fire rated doors system duly tested for 3 criteria - Integrity, Insulation and Stability Criteria as per the IS: 3614 Part 2 and BS: 476 part 22 at National Test House, Govt of India laborator and/or with Central Building Research Institute, Govt of India undertaking with standard heating conditions as specified in IS:3614 Part II 1992 and BS: 476 part 20 & 22 1987 to achieve the required integrity, insulation and stability (i.e. to restrict the heat radiation, temperature rise on the non fire side to the maximum of 140° C above the ambient temperature on the exposed surface of the shutter. The fire doors are tested with NCBN technology (\"Non Combustible by Nature\").",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "a) Door Frame: Supplying & Fixing frames for Fire resistant door shutters 1st class Malaysian Hardwood Frame densified (810 Kilogram/cum) and pressure treated with fire retardant chemicals in vacuum impregnation vessel under 160 psi pressure as per IS:401and kiln seasoned to moisture below 15% as per IS:1141 of section 120 X 70 mm spray quoted with 2 coats of intumescent paint of minimum 200 micron, with single row of Brush- Type ASTROFLAME intumescent strip of size 10mm x 4mm affixed in the slit of the Frame for fire and smoke sealing, etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 5th Floor and Terrace Floor",
+        "Quantity": "480"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "b)Shutter : Supplying & Fixing of 55mm thick asbestos free criteria checked - fire, heat and smoke resistant composite Fire check Door Shutter complying with with fire performance - FD 120 as per IS:3614 (part - II) comprising of 2x8mm Calcium Silicate boards over Chemically treated (with Fire retardant chemicals in vaccum pressure impregnation vessels under 160 psi pressure as per IS:401 and kiln seasoned to moisture below 15% as per IS:1141) internal timber (Malaysian Hard Wood, densified to 810 Kilogram/cum) frame work of 100x32 mm with 32mm thick infill of ceramic fiber (density 128 Kilogram/cum), vermaculite mix faced with 3mm Fire retardant High Density fibre board, internally lipped with hardwood beading and pasted in Hydraulic Press under 25 MPa, spray quoted with 2 coats of in-tumescent paint of minimum 300 micron, and with single row of Brush- Type intumescent strip of size 10mmx4mm affixed on periphery for fire and smoke sealing in the slit on all edges of shutter except bottom, without any external lipping.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "27"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "202.5"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "c) Vision Panel: \n2 HR rated E Class clear high stress fire rated glass is pre fabricated strategically inside \nthe shutter structure with 10 mm inside the shutter on all sides with U- glazing. An \nadditional insulated powdercoated 'Z' channel of 16 swg MS sheet to be fixed for \nreinforcement of the joints. ",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "2.4768"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "18.576"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "d)Panic Bar: (For 2 Hr fire Rated single Panic bar) Supplying, fitting & fixing Surface mounted Crash Bar/ panic Bar of touch pad style ,made of heavy duty cast iron/ steel body & latches with SS ,BHMA certified & conforming to ANSI A 156.3 for grade-1 ( 3 hours fire rated ) and suitable for surface mounting to wooden/hollow metal/ Al framed door,with maximum operating force 8Kilogram for unlocking easily & outwardly during emergency,complete in all respect as per direction & satisfaction of Engineer-in charge including all taxes & incidental charges. (Note: To be installed at \"FIRE EXIT\"only under location specific instruction of Eingineer-in -Charge.)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "16"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "120"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "e)Door Closure: (For 2 Hr fire Rated EN-3 Door Closure) Supplying, fitting & fixing Surface mounted overhead Door Closer for 2 hour fire rated doors of different size (e.g size -EN-3 for leaf width upto 900mm) CE certified, marked & conforming to EN - 1154 of approved quality (Internationally reputed brand like Dorma, Geze, Hafele, Assabloy & Magnum etc.) fitted and fixed Complete as per direction & satisfaction of Engineer -in Charge including all taxes & incidental charges.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "16"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "120"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "f)12\"SS Handle: (For 2 Hr fire Rated 12\"SS Handle) Supplying, fitting & fixing Stainless Steel 'D' or 'H' type of size 300 mm x 19 mm tubular Handle with Grade 304, CE certified, marked & conforming to EN - 1154 of approved quality (Internationally reputed brand like Dorma, Geze, Hafele, Assabloy & Magnum etc.)as per direction of Eingineer -in Charge fitted and fixed complete including all taxes & incidental charges.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "32"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "240"
+    },
+    {
+        "BOQ_Item_No.": "56",
+        "Description of Work": "Solid Core Flush door Single leaf Providing and fixing factory made solid core flush door in single leaf 35 mm thick, decorative types, of exterior grade, as per detailed drawings, conforming to I.S.:2202 - 1962 (Revised) with approved face veneers on both faces with/without glazing and venetians in the positions shown on the drawings or as directed, all necessary beads, moulding and lipping, holdfasts, mat finish stainless steel fixtures fastenings , finishing with french-polish/ waxing complete. (without door frame).(Sample to be got approved from Ex.Engineer before use) Commercial Hard Wood shutter",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "117.6"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "1150"
+    },
+    {
+        "BOQ_Item_No.": "57",
+        "Description of Work": "Providing and fixing collapsible steel gate in one / two leaves with hot rolled vertical channels of 18 x 9 x 3 mm minimum size, crossings of M.S. flats of size 18 x 5 mm T or E section for runner of minimum 40 x 6 mm size for flange, M.S. flat for top runner of minimum size 40 x 12 mm with roller wheels confirming to grade F.G. 150 fitted with snap headed rivets of minimum size 6 mm max. spacing of vertical channels be 100 mm enclosed gate position and clear space of 150 mm between two sets of crossings with hold fasts, stoppers, spaces, handles, locking arrangement and one coat of red lead primer and oil painting etc. complete. (I.S. 105211983).",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "22.5"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "58",
+        "Description of Work": "Providing and Fixing to frames 30mm thick Fiber glass Reinforced Plastic (F.R.P.) flush door shutter in different plain and wood finish made with fire retardant grade unsaturated polyester resin, moulded to 3mm thick FRP laminate all around, with suitable wooden blocks inside at required places for fixing of fittings and polyurethane foam (PUF) / Polystyrene foam to be used as filler material throughout the hollow panel, casted monolithically with testing parameters of F.R.P. laminate conforming to table - 3 of IS: 14856 : 2000 etc complete as directed.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "72"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "764"
+    },
+    {
+        "BOQ_Item_No.": "59",
+        "Description of Work": "Design, fabrication & Installation of FRP LOUVERS with 30 mm clear space including aluminium EURO support system for accommodating FRP louvers consist of aluminium angle brackets of 50 x 50 x 5 mm with EPDM gaskets & anchor fastners (HILTY make) etc. Louvers as design including 60 mm x 30 mm section UPVC FINS & as per Architect/Engineer incharge",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "35.584"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "424.784"
+    },
+    {
+        "BOQ_Item_No.": "60",
+        "Description of Work": "Invisible Grills - Providing & Fixing invisible grills with alluminium track uses 316 marine grade stainless steel for the cables manufactured with 7 x 7 nano technology with 0.3 mm nylon coating. SpecsLoad Capacity - 250 Kgs / Plus Space - 1.5 inch No hot work/ No Welding",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "123.015"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "1623"
+    },
+    {
+        "BOQ_Item_No.": "61",
+        "Description of Work": "Providing and fixing of factory made uPVC Sliding window & door (White Colour) complete, comprising uPVC multi-chambered frame having in-built uPVC roller track on top and uPVC sash with wall thickness of 2.3mm (+-0.2 mm), duly reinforced with G.I. section 1.5 mm, wherever required. uPVC window & door profile shall be made in India & shall conform to BS EN 12608 and other standards as mentioned below: S.No. Name of the test Test Method Specified Parameter 1 Tensile Impact Strength ISO 8256 - more than 700Kj/m2 2 Vicat Softening Temperature EN ISO – 306 Shall not be < 750C 3 Charpy Impact Strength EN ISO – 179-2 Shall not be < 20KJ/m2 4 Flexural Modulus Elasticity EN ISO – 178 Shall not be < 2200 N/mm2 5 Mean Breaking Stress for welded corner (a) For the tensile bending test EN – 514 Shall not be < 25 N/mm2 (b) For the compression bending test Shall not be < 30N/mm2 6 Heat Reversion Test IS:4985-2000 Shall not be > 2.0 % 7 Surface Spread of flame BS : 476 - Part 7 Classification 1 8 Ignitability Evaluation BS : 476 - Part 5 'P' Not easily ignitable 9 Tensile modulus ASTM D 638 Shall not be < 35 MPa 10 Shear Modulus ASTM D 732 Shall not be < 220 MPa 11 Tensile Strength EN ISO 527 Shall not be < 30 MPa All corners of frame and sash will be fusion welded. After placing 5 mm Float Annealed glass in the sash, uPVC glazing bead, interlock, EPDM / TPE gasket, brush shall be provided including touch lock and rollers & proper drainage system shall be provided. Window / Door will be fixed to the wall with 100mm long and 8mm dia. Fasteners and complete in all respect as per direction of Engineer-In-Charge. uPVC Window and Door Profiles are warranted for a period of ten (10) years against non-uniform discoloration, wrapping and rotting under general use.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor ( 2 Track 2 / 4 Sash (Big Series) window frame of size 67 x 54 mm & Sash of size 64 x 47 mm)",
+        "Quantity": "123.015"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor ( 2 Track 2 / 4 Sash (Big Series) window frame of size 67 x 54 mm & Sash of size 64 x 47 mm)",
+        "Quantity": "1623"
+    },
+    {
+        "BOQ_Item_No.": "62",
+        "Description of Work": "Providing & fixing S.S. pipe hand rail along the wall in staircase orramps or passages consisting of 50 mm dia. 18 gauge 304 grade stainless steel pipe. Supported with 25 mm 18 gauge S.S. pipe(304grade) brackets & 5mm thick tapered edge coller base plate fixedto wall with SS screws at approx. 600 mm center to center fixedhorizontally or in inclined position at required height including grindingthe welded joints, buffing,protecting the railing members by means of wrappers during construction etc. complete as per detailed drawing",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 5th Floor and Terrace Floor",
+        "Quantity": "480"
+    },
+    {
+        "BOQ_Item_No.": "63",
+        "Description of Work": "Providing and fixing 900mm high S.S.304 Grade Stainless steel railing with 40mm diameter and 1.5mm thick at top,40mm diameter and 1.5mm thick vertical supports spaced at 1.5m center to center and 8mm thick toughened glass including fabricating ,fixtures, errecting , necessary welding , grinding , finishing, buffing to stainless steel pipe etc. complete",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "88"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "1152"
+    },
+    {
+        "BOQ_Item_No.": "64",
+        "Description of Work": "Providing and applying priming coat on concrete/ masonary/ Asbestos Cement plastered surfaces including scaffolding if necessary, preparing the surface by thoroughly cleaning oil, grease, dirt and other foreign matter and sand papering as required etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "6018.182908"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "61932.05566"
+    },
+    {
+        "BOQ_Item_No.": "65",
+        "Description of Work": "Providing and applying plastic emulsion paint of approved quality, colour and shade to old and new surfaces in two coats including scaffolding, preparing the surface. (excluding the primer coat)etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "6018.182908"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "61932.05566"
+    },
+    {
+        "BOQ_Item_No.": "66",
+        "Description of Work": "Providing and applying two coats of exterior acraylic emulsion paint confirming to corresponding I.S. of approved manufacture and of approved colour to the plastered surfaces including cleaning ,preparing the plaster surface, applying primer coat, scaffolding if necessary , and watering the surface for two days etc complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "3868.7758"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "17101.23316"
+    },
+    {
+        "BOQ_Item_No.": "67",
+        "Description of Work": "Supply and Installation of translucent roof with DPI Flux standing seam multicell polycarbonate panel system. The system with complete assembly of co extruded UV protected multicell panels incorporated into a complete system. Co-extruded UV protected polycarbonate panel system of min 12 mm thick of 900 mm (min.) width with angular daylighting concept. Panels shall have minimum six layers with truss bridge design for higher flexibility & strength. Panels with all fixing accessories to ensure best performance for wind uplift, vibration, oil canning and visual appearance. Panels shall be manufactured with vertical standing seam at both sides of the panel. Panels shall be fixed on Purlin with snap on connectors with double tooth grip lock locking mechanism and will be secured on MS structure (will be paid Separately) with 3 One Numbers self-drilling screws & trapezoid SS fasteners holding the base of the standing seam offering best stability having a pull-out load of min. 7000N (7KN) tested as per ISO 6892:1998 and IS 1608: 2005, as per design requirement. Panels must satisfy Dart drop impact test as per IS 14443-97 shall show no sign of breakage on Polycarbonate sheets which have been exposed to UV for a min. of 500 Hours as per ASTM G 155. Panels shall not have Yellowness Index as per ASTM D 1925 of 15 units when tested on a sample exposed to UV for 500 Hours as per ASTM G 155. U value shall not be more than 1.6 W/m2K as per EN ISO 10077-2:2018. Panel shall be with additional End cap/Aluminium U/F profile/ Glazing Bar for ends as required. Panel shall be fixed over MS structural steel/MS purlin (paid separately) conforming to the detail technical specifications as per approved architectural drawings. Trained and factory authorized labour with supervision to complete the entire panel installation as per drawing & direction of the engineering in charge. Colour: As per Approval. Approved Make: FLUX by DPI Daylighting or approved equivalent The 12mm thick panels shall be used for a roofing height of upto 15 mtrs.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "48"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 1st Floor to 15th Floor and Terrace Floor",
+        "Quantity": "2592"
+    },
+    {
+        "BOQ_Item_No.": "68",
+        "Description of Work": "Providing and fixing 12mm thk toughened etched glass as per the design, as per the design. Glass to be fixed at top & bottom in heavy guage aluminium 'c ' channel concealed in floor & boxing. Cost to be inclusive of silicon sealant to the periphery of the glass as directed.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 1st Floor",
+        "Quantity": "61.6"
+    },
+    {
+        "BOQ_Item_No.": "69",
+        "Description of Work": "Fire exit and floor identification signage as per manufacturer's specifications, ADA compliant and modular system.",
+        "Quantity": "100"
+    },
+    {
+        "BOQ_Item_No.": "70",
+        "Description of Work": "Providing and fixing on walls/ ceiling/ floor 50 mm dia. CPVC pipe with necessary fittings, remaking good the demolished portion etc. complete.",
+        "Quantity": "750"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Municipality Inlet connection",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "71",
+        "Description of Work": "Providing and fixing on walls/ ceiling/ floor 32 mm dia. CPVC pipe with necessary fittings, remaking good the demolished portion etc. complete. Including removing existing pipe line if necessary and conveying and stacking the same in PWD chowky or as directed etc. complete.",
+        "Quantity": "1590"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Shaft Water supply",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "72",
+        "Description of Work": "Providing and fixing on walls/ ceiling/ floor 25 mm dia. CPVC pipe with necessary fittings, remaking good the demolished portion etc. complete. Including removing existing pipe line if necessary and conveying and stacking the same in PWD chowky or as directed etc. complete.",
+        "Quantity": "2520"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Shaft Water supply",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "73",
+        "Description of Work": "Providing and fixing on walls/ceiling/floor 20 mm dia. CPVC pipe with necessary fittings, remaking good the demolished portion etc. complete. Including removing existing pipe line if necessary and conveying and stacking the same in PWD chowky or as directed etc. complete.",
+        "Quantity": "2520"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Toilet Water supply",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "74",
+        "Description of Work": "Providing and fixing 8 cm rigid PVC Nahani trap including PVC grating ,bend, connecting piece of UPVC pipe up to the outside face of wall ,making the good damaged surface and testing etc. complete ( Prior approval of sample and brand by Ex. Engr. is necessary before use)",
+        "Quantity": "418"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Toilets",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "75",
+        "Description of Work": "Providing & Fixing 100mm diameter Nahani trap Jali in steel finish with necessary fixing required to make the item well functional.",
+        "Quantity": "418"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Terrace,Toilet and Balcony",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "CP AND SANITARY WORKS",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "76",
+        "Description of Work": "Providing  and  fixing  European  type  white  glazed  earthen  ware  water  closet  pan  with UPVC  seat  and  lid  with  chromium  plated  brass  hinges  and  rubber  buffers  including UPVC and vent pipe up to the out side face of wall 10 litre enameled low level flushing cistern with fittings pipe stop tap brackets for fixing cistern 32 mm dia. UPVC flush pipe with fittings and clamps, 20 mm dia. UPVC over flow pipe, mosquito proof couplings G.I. chain and pulley, with water Jet and fitting including cutting and making good to the walls\nand floors testing etc. complete. (prior approval of sample and brand by Ex. Engineer is necessary before use)",
+        "Quantity": "412"
+    },
+    {
+        "BOQ_Item_No.": "77",
+        "Description of Work": "Providing and  fixing  white  glazed  earthenware  lipped  flat back/corner type Urinal  with PVC 5 liters flushing cistern with fittings, inlet pipe with stop tap, brackets for fixing the cistern, 32 mm diameter P.V.C. flush pipe with fitting including lead soil pipe, lead trap and soil pipe connection up to the outside face of wall.",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For GF Toilets",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "78",
+        "Description of Work": "Providing and fixing C.P. 2 Way BIB cock with wall flange of approved make including necessary sockets/ union nut etc. complete ",
+        "Quantity": "412"
+    },
+    {
+        "BOQ_Item_No.": "79",
+        "Description of Work": "Providing and fixing Health Faucet with one metre long easy flex tube in chrome finish and wall flange",
+        "Quantity": "412"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Internal Toilets",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "80",
+        "Description of Work": "Providing and fixing toilet paper holder : C.P. Brass",
+        "Quantity": "412"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Toilets",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "81",
+        "Description of Work": "Providing  and  fixing  ISI  marked  make  CP  brass  liquid  soap  dispensers  with  CP  brass bracket capacity 250 ml.",
+        "Quantity": "412"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "For Bath area",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "82",
+        "Description of Work": "Providing  and  fixing  C.P.  BIB  cock  with  wall  flange  of  approved  make  including necessary sockets/ union nut etc. complete.",
+        "Quantity": "382"
+    },
+    {
+        "BOQ_Item_No.": "83",
+        "Description of Work": "Providing  and  fixing  600x450  mm bevelled  edge  mirror  of superior  glass  (of approved quality) complete with 6 mm thick hard board ground fixed to wooden cleats with C.P.\nbrass screws and washers complete.",
+        "Quantity": "418"
+    },
+    {
+        "BOQ_Item_No.": "84",
+        "Description of Work": "Providing  and  fixing  75  mm  dia  stabiliser  pipe/  P.V.C.  soil  vent/waste  pipe  and  with\nnecessary  fixtures  and  fitting  such  as  bends,  tees,  single  junctions,  slotted  vent,  clamps etc. complete",
+        "Quantity": "1590"
+    },
+    {
+        "BOQ_Item_No.": "85",
+        "Description of Work": "Providing  and  fixing  100  mm  dia  stabiliser  pipe/  P.V.C.  soil  vent/waste  pipe  and  with\nnecessary  fixtures  and  fitting  such  as  bends,  tees,  single  junctions,  slotted  vent,  clamps etc. complete.",
+        "Quantity": "1590"
+    },
+    {
+        "BOQ_Item_No.": "86",
+        "Description of Work": "Providing and fixing P.V.C. Rain water pipes of 110mm outer diameter and having wall thickness  of  2.2  to  2.7  mm  confirming  to  I.S.  13592-1992  including  proper  rainwater receiving  recess  with  P.V.C.  plug,  bend,  necessary  fittings,  such  as,  offsets,  shoes, inluding fixing the pipe on wall using approved wooden cleats projecting 25mm to 40mm from face of wall a fixing with clips of approved quality and One Number ,filing the joint using rubber gasket with solvent cement and properly resting the shoe of pipes on C.C. or masonry  blocks,  including  necessary  scaffolding  and  maintenance  for  3  yrs  for  any leakages  or  dislocations  of  pipes.  All  the  P.V.C.  fittings  and  additional  2  piece  socket\nclips shall be got approved from engineer in charge etc. complete.",
+        "Quantity": "624"
+    },
+    {
+        "BOQ_Item_No.": "87",
+        "Description of Work": "Providing and  fixing 15cm x 10cm salt  glazed  stoneware gully trap  in  cement concrete 1:4:8  outside  the  building  including  cast  iron  grating  in  the  sink,  connecting  glazed\nstoneware  pipe,  brick  masonry  chamber  with  cast  iron  lid  and  cast  iron  grating  for  the gully trap",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "88",
+        "Description of Work": "Providing  and  constructing  Brick  Masonry  Inspection  Chamber  90cm  x  45cm  x  90cm including  1:4:8  cement  concrete  foundation  1:2:4  cement  concrete  channels  half  round G.S.W.pipes, Brick Masonry, plastering from inside and C.I. lid cover of 75Kilogramwith lid and frame fixed in cement concrete.",
+        "Quantity": "50"
+    },
+    {
+        "BOQ_Item_No.": "89",
+        "Description of Work": "RWH  -   Shallow  Percolation  Pit   providing,   constructing  2.0m  deep   shallow  depth percolation  pit  comprising  of  1.0m  dia  pre-cast  RCC  rings,  300mm  thick  side  filling around outside of RCC rings (annular space) with 40mm size boulders including filling of percolation pit up to 0.5m depth (from bottom up) with 25-75mm clean washed gravels followed by 0.5m depth of 10-25mm of clean washed stones followed by 0.5m of washed river fine aggregate (natural sand/crushed sand VSI  grade finely washed  etc.) including netlon  mesh  between  each  gravel/fine  aggregate  (natural  sand/crushed  sand  VSI  grade finely  washed  etc.)  media  layer  including  covering  with  RCC  slab,  manhole  frame  & cover,  PVC  rungs  etc.  including  arrangement  for  inlet  &  outlet  pipe,  excavation  & backfilling as shown  in  the drawing.  The rate  shall  be inclusive  of all  labour,  material, wastage,  scaffolding,  transportation,  taxes,  including  all  leads,  lifts  at  all  levels.  All material should be of approved make. All works complete as per the drawing, technical\nspecification ",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "90",
+        "Description of Work": "Single   Bed   @   2025LX   1000DX   650H  Providing   and   fixing   Single   Bed   of   Size 2025Lx1000Dx650H  with  matress  and  pillow.  Understructure:  -  The  legs  are  made  of Square tube of size 25 x 25mm made out of MS  with a thickness of 1.2 mm.  The legs should have corner brackets welded to it at two levels. The corner brackets are made of 2mm thick CRCA having a L shaped structure to join the side panels and headboard to the leg. Three nos. of Horizontal stiffeners are provided at equal intervals. The stiffeners are made of Square tube of size 25 x 25mm made out of MS with a thickness of 1.2mm. The middle Horizontal Stiffener has a leg attached to it to transfer the load to the ground and add to the strength and stability of the complete structure. This leg is also made of Square tube  of  size  25  x  25mm  made  out  of  MS  with  a  thickness  of  1.2mm.  All  Metal components  to  undergo  7  tank  treatment  process  and  should  be  powder  coated  to  the thickness  of  minimum  50  Microns  DFT.Side  Panel:  -  The  side  panels  are  made  up  of 18mm thick Prelam Particle Board with both side decorative laminate. All exposed edges are  sealed  with  2mm  thick  PVC  edge  Banding.  The  overall  width  of  the  side  panel  is 150mm.  The  side  panels  have  18mm  thick  prelam  particle  board  Baton  running  for required length to add rigidity to the structure. Head Board :- The head board is made up of  18mm  thick  Prelam  Particle  Board  with  both  side  decorative  laminate.  All  exposed edges  are  sealed  with  2mm  thick  PVC  edge  Banding.  The  head  board  size  to  be considered as 1000 x 650mm. Foot Board :- The foot board is made up of 18mm thick Prelam Particle Board with both side decorative laminate. All exposed edges are sealed with  2mm  thick  PVC  edge  Banding.  The  head  board  size  to  be  considered  as  1000  x 450mm. Bed Base: - The Bed Base is made up of 12mm thick Prelam Particle Board with\nboth side White laminate.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto First Fr",
+        "Quantity": "54"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above first floor to 15th",
+        "Quantity": "1146"
+    },
+    {
+        "BOQ_Item_No.": "91",
+        "Description of Work": "Bed  Side  Table  @  400LX  400DX  415H  Providing  and  Fixing  Bed  Side  Table  of  size 400LX 400DX 415H The bed side unit is made up of 18mm thick Prelam Particle Board with  both  side decorative laminate.  All  exposed  edges  are sealed  with  2mm thick  PVC edge  Banding.  The  bed  side  table  has  one  drawer  and  one  shelf.  The  shelf  is  made  of 18mm thick Prelam Particle Board with both side decorative laminate. All exposed edges\nare sealed with 2mm thick PVC edge Banding",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto First Fr",
+        "Quantity": "54"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above first floor to 15th",
+        "Quantity": "1146"
+    },
+    {
+        "BOQ_Item_No.": "92",
+        "Description of Work": "Providing and fixing SS (IS 6911:1992) grade of steel 304 Dinning chirs for dining Hall and dining Room area as per the drawing or approved size and shape including all lead lift\nshiftingto work location etc. complete.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto First Fr",
+        "Quantity": "287"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above first floor to 15th",
+        "Quantity": "1146"
+    },
+    {
+        "BOQ_Item_No.": "93",
+        "Description of Work": "Wardrobe  with  Mirror  @  900LX  600DX  1965H  Providing  and  Fixing  Wardrobe  with Mirror of size 900LX 600DX 1965H The wardrobe side panels and doors are made up of 18mm thick Prelam Particle Board with both side decorative laminate. All exposed edges are  sealed  with  2mm  thick  PVC  edge  Banding.  The  shelves  are  made  of  18mm  thick Prelam Particle Board with decorative laminate on both sides. The top is made of 36mm prelam  particle  board  with  decorative  laminate  on  both  sides.  (18mm  Prelam  Particle board  and  18mm batons  on  all  sides  to  achieve  36mm  overall  thickness).  The  exposed edges of the top are sealed with 2mm thick PVC edge Banding. The top most part of the wardrobe  has  an  aluminum  hanger  rod  of  EBCO  make.  One  drawer  of  size  400(W)  x 150(H) x 450 (D) made of 18mm thick prelam Particle Board has been considered. The drawer will have a multipurpose lock of EBCO premium make. The wardrobe handles are Satin SS finish of 160mm pitch. The wardrobe has a multipurpose lock of EBCO make. All  hinges  considered  are  Hettich  make.  Necessary  good  quality  hardwares  have  been\nconsidered as required.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto First Fr",
+        "Quantity": "54"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above first floor to 15th",
+        "Quantity": "1128"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "(B) V.Q.C.C Material Testing Centre",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Cement",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "94",
+        "Description of Work": "Standard Consistancy, Fineness, Specific Gravity, Setting Time ( Initial & Final ), Compressive Strength, Soundness.",
+        "Quantity": "16"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Agreegate",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "95",
+        "Description of Work": "Water Absorption, Specific Gravity,Impact Value, Crushing Value.",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "96",
+        "Description of Work": "Sieve Analysis.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "97",
+        "Description of Work": "Flakiness Index & Elongation Index.",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Fine Agreegate",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "98",
+        "Description of Work": "Fineness Modulus ( Sieve Analysis ),Silt & Clay Content",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "99",
+        "Description of Work": "Chloride & Sulphate Content.",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "100",
+        "Description of Work": "Silt Factor.",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of AAC BLOCKS",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "101",
+        "Description of Work": "Density Test . (Set of 3 Blocks ),Compressive Strength. (Set of 3 Blocks ),Water Absorption Test ( Set of 3 Blocks )",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Concrete",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "102",
+        "Description of Work": "Compressive Strength of C.C. Cube (Set of 3 cubes).",
+        "Quantity": "800"
+    },
+    {
+        "BOQ_Item_No.": "103",
+        "Description of Work": "Concrete Mix Design (With all Tests on basic materials)",
+        "Quantity": "9"
+    },
+    {
+        "BOQ_Item_No.": "104",
+        "Description of Work": "Permeability Test.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "105",
+        "Description of Work": "Concrete mix design by Accelerated curing method. (By Accelerated curing method)",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Mortar",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "106",
+        "Description of Work": "Compressive Strength.( Set of 3 Cubes)",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Stone/ Rubble",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "107",
+        "Description of Work": "Crushing Value/Compressive Strength, Water Absorption & Specific Gravity,",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Murrum",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "108",
+        "Description of Work": "Sieve Analysis.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "109",
+        "Description of Work": "Liquid limit & plastic Limit.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "110",
+        "Description of Work": "Compaction Test ( Proctor Density ).",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Water",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "111",
+        "Description of Work": "PH Value, Sulphate & Chloride Content.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Wood",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "112",
+        "Description of Work": "Density, Moisture Content.",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Flush Door",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "113",
+        "Description of Work": "Knife Test, Adhesion Test, End Immersion Test.",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of PVC pipes",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "114",
+        "Description of Work": "Weight per running meter,Diameter of pipe & wall thickness of pipe",
+        "Quantity": "17"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Basic Test of Steel Bar",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "115",
+        "Description of Work": "(Tensile  strength,  %,  Elongation,  Yield  Stress,Weight-Per  Meter,  Bend  /  Rebend  Test, Proof Stress.)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "A",
+        "Description of Work": "Upto 16 mm (Set of 3 Bars)",
+        "Quantity": "189"
+    },
+    {
+        "BOQ_Item_No.": "B",
+        "Description of Work": "Above 16 mm (Set of 3 Bars)",
+        "Quantity": "230"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "(C ) Royalty charges",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "116",
+        "Description of Work": "For Natural Sand",
+        "Quantity": "1721.666234"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": "A=865841442.01"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": "B=1510505.00"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": "C=408671.91"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": "Rs. 867760618.92"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": "Say Rs. 867760619/-"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Part (B) :- Electrical Work",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "117",
+        "Description of Work": "Supply,installation, testing & commissioning etc. of DG set panel Construction- Floor mounted cubicle type panel, Fabricated from 14/16G CRCA ,IP52 sheet steel totally compartmentalized, treted for rust proofing. with separate busbarcamber & cable chambers Front/ back access for switchgears, connectors etc. Suitable for 430 V, 3 phase / 4 Wire System , 50 Hz supply, ALL LT PANELS ARE TYPE TESTED - IP-52 RATING\nBreakers shall be compitable to monitored through' IBMS] The Energy multifunction meter with RS 485/RS232 port shall be provided as per SLD PANEL BUILDER Control Unit/ Incomer- 1 No. - 630A MCCB, 25kA, FP /MP with O/C,S/C,E/F,U/V, E/L and Shunt coils etc. LED Based Phase indicating lamps, control MCBs , CTs, etc Set - ON/OFF/ TRIP lamps with control MCBs Set - ON/OFF/ TRIP lamps with control MCBs, (BMS COMPATIBLE METER )Potential Bus/Busbar 1 set - 630A TPN+E Tinned Aluminium busbar,Insulated with heat shrinkable sleeves Feeder section/Outgoing\n: A Side HOSTEL LIGHT POWER PANEL -1 No. -- 250A TPN MCCB 16kA, TPN /TM with O/C,S/C,E/F,B side HOSTEL LIGHT POWER PANEL -1 No. -- 250A TPN MCCB 16kA, TPN /MP with O/C,S/C,E/F FAS PA PANEL -1 No. -- 250A TPN MCCB 16kA, TPN / TM with O/C,S/C,E/FSPARE - 1 Nos - 250A TPN MCCB 16KA TPN / MP with\nO/C,S/C,E/F",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "118",
+        "Description of Work": "Supply,installation, testing & commissioning etc. of LT panel A side HOSTEL LIGHT/POWER PANEL Construction- Floor mounted cubicle type panel, Fabricated from 14/16G CRCA ,IP52 sheet steel totally compartmentalized, treted for rust proofing. with separate busbarcamber & cable chambers Front/ back access for switchgears, connectors etc. Suitable for 430 V, 3 phase / 4 Wire System , 50 Hz supply, Control Unit/ Incomer- 1 No. - 630.A ACB, 25kA, FP /MP with O/C,S/C,E/F,U/V, E/L and Shunt coils etc. LED Based Phase indicating lamps, control MCBs , CTs, etc Set - ON/OFF/ TRIP lamps with control MCBs Set - ON/OFF/ TRIP lamps with control MCBs, (BMS COMPATIBLE METER)\nPotential Bus/Busbar 1 set - 630A TPN+E Tinned Aluminium busbar,Insulated with heat shrinkable sleeves\nFeeder section/Outgoing :\nFIRST FLOOR KITCHEN & DINNING PANEL-1 No. -- 200A TPN MCB 10kA, SECOND FLOOR AV ROOM DB-1 No. -- 63A TPN MCB 10kA,\nSECOND FLOOR GYM DB-1 No. -- 40A TPN MCB 10kA,\nSECOND FLOOR MEDICAL ROOM DB -1 No. -- 32A TPN MCB 10kA, THIRD FLOOR LPDB -1 No. -- 63A TPN MCB 10kA,\nFOURTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, FIFTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, SIXTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, SEVENTH FLOOR LPDB -1 No. -- 40A TPN MCB 10kA, EIGHTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, NINTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, TENTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, ELEVENTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, TWELTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA,\nTHIRTEENTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, THIRTEENTH FLOOR VISITOR -1 DB -1 No. -- 25A TPN MCB 10kA, THIRTEENTH FLOOR VISITOR -2 DB -1 No. -- 40A TPN MCB 10kA,\nTHIRTEENTH FLOOR WARDEN ROOM-1 -2 DB -1 No. -- 40A TPN MCB 10kA, THIRTEENTH FLOOR WARDEN ROOM-2 -2 DB -1 No. -- 63A TPN MCB 10kA, Fourteenth FLOOR LPDB -1 No. -- 63A TPN MCB 10kA\nFifteenth FLOOR LPDB -1 No. -- 63A TPN MCB 10kA SPARE -3 No. -- 63A TPN MCB 10kA,\n",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "119",
+        "Description of Work": "Supply,installation, testing & commissioning etc. of LT panel B side HOSTEL LIGHT/POWER PANEL Construction- Floor mounted cubicle type panel, Fabricated from 14/16G CRCA ,IP52 sheet steel totally compartmentalized, treted for rust proofing. with separate busbarcamber & cable chambers Front/ back access for switchgears, connectors etc. Suitable for 430 V, 3 phase / 4 Wire System , 50 Hz supply, Control Unit/ Incomer- 1 No. - 630A MCCB, 10kA, TPN /MP with O/C,S/C,E/F,U/V, E/L and Shunt coils etc. LED Based Phase indicating lamps, control MCBs , CTs, etc Set - ON/OFF/ TRIP lamps with control MCBs Set - ON/OFF/ TRIP lamps with control MCBs, (BMS COMPATIBLE METER )Potential Bus/Busbar 1 set - 630A TPN+E Tinned Aluminium busbar,Insulated with heat shrinkable sleeves Feeder section/Outgoing : FIRST FLOOR KITCHEN & DINNING PANEL-1 No. -- 200A TPN MCB 10kA, SECOND FLOOR AV ROOM DB-1 No. -- 63A TPN MCB 10kA, SECOND FLOOR GYM DB-1 No. -- 40A TPN MCB 10kA, SECOND FLOOR MEDICAL ROOM DB -1 No. -- 32A TPN MCB 10kA, THIRD FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, FOURTH FLOOR LPDB\n-1 No. -- 63A TPN MCB 10kA, FIFTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, SIXTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, SEVENTH FLOOR LPDB -1  No. -- 40A TPN MCB 10kA, EIGHTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, NINTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, TENTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, ELEVENTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, TWELTH FLOOR LPDB -1 No. -- 63A TPN MCB 10kA, THIRTEENTH FLOOR  LPDB -1 No. -- 63A TPN MCB 10kA, THIRTEENTH FLOOR VISITOR -1 DB -1 No. -- 25A TPN MCB 10kA, THIRTEENTH FLOOR VISITOR -2 DB -1 No. -- 40A TPN  MCB 10kA, THIRTEENTH FLOOR WARDEN ROOM-1 -2 DB -1 No. -- 40A TPN MCB 10kA, THIRTEENTH FLOOR WARDEN ROOM-2 -2 DB -1 No. -- 63A TPN\nMCB 10kA,Fourteenth FLOOR LPDB -1 No. -- 63A TPN MCB 10kAFifteenth FLOOR LPDB -1 No. -- 63A TPN MCB 10kA SPARE -3 No. -- 63A TPN MCB 10kA, ",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "120",
+        "Description of Work": "Supply,installation,testing & commissioning of APFCR PANEL (550KVAR) Construction- Floor mounted cubicle type panel, IP 52 Enclosure Fabricated from 14/16G CRCA sheet steel totally compartmentalized, treted for rust proofing with separate busbarcamber & cable chambers, Front/back access for switchgears, connectors etc.Suitable for 430 V, 3 phase / 4 Wire System , 50 Hz supply Main Control Unit/ Incomer Suitable rating ACB EDO/ MCCB, TM/MP, FP/TPN O/C,S/C,E/F,U/V and shunt coils as required Breakers shall be compitable to monitored through' IBMS], LED Based Phase indicating lamps, control RCBOs , CTs, etc Set - ON/OFF/ TRIP lamps with control RCBOs Potential Free Contacts for Remote Monitoring The Energy multifunction meter with RS 485/RS232 port shall be provided as per SLD,Main Control Unit/ Incomer 1No. - 160A MCCB EDO,50 kA,FP/MP O/C,S/C,E/F,U/V and LED Based Phase indicating lamps, control RCBOs , CTs, etc Set - ON/OFF/ TRIP lamps with control RCBOs Set - Mannual Operation Selector switch Potential Free Contacts for Remote Monitoring.\nPotential Bus/Busbar 1 set - 315 A TPN +E 91E Aluminium busbar Insulated with heat shrinkable sleeves,\nFEEDER OUTGOING - All feeder of 36KA, 3 NOs. 100A, 3 NOs 125A, 4 NO. 63 A\nContactor ,with thyrister/thermister controls. with ON/OFF lamp & Start/Stop Push Button 3 NO. 100 KVAR,3 NO. 50 KVAR, 4 NOs. 25 KVAR Capacitor panel to be provided With 7% detuned capaciters APP/MPP CAPACITOR heavy duty,with thyrister/thermister controls. [All the outgoing feeders shall have 'ON' /'OFF'/'TRIP'\n,indication/Lamps. I/C's shall be mechanically & Electrically interlocked All the Lamps shall be of LED Type Only . ",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "121",
+        "Description of Work": "Supply,installation, testing & commissioning etc. of LT PLUMBING PANEL Construction- Floor mounted cubicle type panel, Fabricated from 14/16G CRCA ,IP52 sheet steel totally compartmentalized, treted for rust proofing. with separate busbarcamber & cable chambers Front/ back access for switchgears, connectors etc. Suitable for 430 V, 3 phase / 4 Wire System , 50 Hz supply, \"Automatic Fire suppression gas flooding system complete with Perfluoro Ketone (FK-5-1-12)/ HFC 227ea, DLP Assembly with automatic valve, push in connector for tube, Perfluoro Ketone (FK-5-1-12)/ HFC 227ea, mounting bracket, End of Line adopter and low pressure switch for monitoring system activation.Perfluoro Ketone (FK-5-1-12)/ HFC 227ea gas of suitable capacity , Heat detection tube as required and A/V alarm with all necessaryinstallation to complete the system as per specifications. Or as directed etc.\"Control Unit/ Incomer- 1 No. - 500A MCCB,16kA, TPN /MP with O/C,S/C,E/F,U/V, E/L and Shunt coils etc. LED Based Phase indicating lamps, control MCBs , CTs, etc Set - ON/OFF/ TRIP lamps with control MCBs Set - ON/OFF/ TRIP lamps with control MCBs,Potential Bus/Busbar 1 set - 500A TPN+E Tinned Aluminium busbar,Insulated with heat shrinkable sleeves Feeder section/Outgoing : DOMESTIC PUMP CONTROL PANEL-1-1 No. -- 63A TPN MCB 10kA, FLUSHING PUMP CONTROL PANEL-1-1 No. -- 125A TPN MCB 10kA, GROUND FLOOR PDB-1-1 No. -- 400A TPN MCB 10kA, STP-1-1 No. -- 16A TPN MCB 40kA, OWC-1-1 No. -- 16A TPN MCB 40kA, RWH-1-1 No. -- 16A TPN MCB 40kA, SUMP PUMP IN PUMP ROOM-1-1 No. -- 25A TPN MCB 10kA, SUMP PUMP IN RWH FILTERATION PLANT -1-1 No. -- 25A TPN MCB 10kA, SUMP PUMP IN STP -1-1 No. -- 25A TPN MCB 10kA, SUMP PUMP IN LIFT PIT -1-1 No. --32A TPN\nMCB 10kA, 4 No. -- 63A TPN MCB 10kA, SPARE",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "122",
+        "Description of Work": "Supplying & erecting triple pole and neutral distribution board (TPNDB), SPMCB of 4 ways/phase (12 poles), with door, 1.2mm thickness, surface/flush mounted, IP 43 protection on iron/GI frame (horizontal busbar\ntype) as per specification no (4 WAY TPN DB) Make - SCHNEIDER / LEGRAND/ SIEMENS / L&T / HAVELLS",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "123",
+        "Description of Work": "Supplying & erecting triple pole and neutral distribution board (TPNDB), SPMCB of 8 ways / phase (24 poles), with door, 1.2mm thickness surface/ flush mounted, IP 43 Protection on iron/GI frame (horizontal busbar type) as per specification no. (8 WAY TPN DB)",
+        "Quantity": "39"
+    },
+    {
+        "BOQ_Item_No.": "124",
+        "Description of Work": "Supplying & erecting triple pole and neutral distribution board (TPNDB), SPMCB of 12 ways /phase (36 poles), with door, 1.2mm thickness surface/flush mounted, IP 43 Protection on iron/GI frame (horizontal busbar\ntype) as per specification no. (12 WAY TPN DB)",
+        "Quantity": "21"
+    },
+    {
+        "BOQ_Item_No.": "125",
+        "Description of Work": "Supplying & erecting CRCA sheet metal one way enclosures of 1.2mm thickness suitable for DP MCB /TP MCB/FP MCB/RCCB/RCBO complete erected\non angle iron/GI frame. + 10 nos qty from sw1 sr.no.96",
+        "Quantity": "177"
+    },
+    {
+        "BOQ_Item_No.": "126",
+        "Description of Work": "Supplying and erecting single pole and neutral distribution board (SPNDB), with 2 ways for incoming and 6 ways (6 poles) for outgoing SP MCBs, with door, 1.2mm thickness surface / flush mounted, IP 43 Protection on iron / GI frame as per specification no. (8 WAY SPN DB)",
+        "Quantity": "12"
+    },
+    {
+        "BOQ_Item_No.": "127",
+        "Description of Work": "Supplying, erecting & marking TPMCB 6A to 32A, with rated short - circuit breaking capacity (Icn) 10kA in provided distribution board as per specification no.",
+        "Quantity": "12"
+    },
+    {
+        "BOQ_Item_No.": "128",
+        "Description of Work": "Supplying, erecting & marking TPMCB 40A to 63A, with rated short - circuit breaking capacity (Icn) 10kA in provided distribution board as per specification no.",
+        "Quantity": "52"
+    },
+    {
+        "BOQ_Item_No.": "129",
+        "Description of Work": "Supplying, erecting & commissioning 2 pole RCCB 16/25A, electromagnetic typewith 30/100/300 mA sensitivity with earth leakage trip indication complete as per specification no",
+        "Quantity": "167"
+    },
+    {
+        "BOQ_Item_No.": "130",
+        "Description of Work": "Supplying, fixing and commissioning 2 pole RCBO 32/40A, with overcurrent, rated short-circuit breaking capacity (10 kA) and earth leakage protection,\nwith 30/100/300 mA sensitivity and short circuit and earth leakage trip indication as per specification no ",
+        "Quantity": "144"
+    },
+    {
+        "BOQ_Item_No.": "131",
+        "Description of Work": "Supplying, erecting & marking SPMCB 6A to 32A, C-series with rated short - circuit breaking capacity (Icn) 10kA in provided distribution board as per specification no.",
+        "Quantity": "546"
+    },
+    {
+        "BOQ_Item_No.": "132",
+        "Description of Work": "Supplying, erecting & marking SPMCB 6A to 32A, B-series with rated short - circuit breaking capacity (Icn) 10kA in provided distribution board as per specification no.",
+        "Quantity": "546"
+    },
+    {
+        "BOQ_Item_No.": "133",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steelformed wire armoured (strip) cable 1100 V, 4 core 4 sq. mm. aluminiumconductor complete erected with glands & lugs, on wall/ trusses/pole or laid inprovided trench/ pipe as per\nspecification no. CB-LT/AL",
+        "Quantity": "675"
+    },
+    {
+        "BOQ_Item_No.": "134",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 4 core 6 sq. mm. aluminium conductor complete erected with glands & lugs, on wall/ trusses/pole or laid in\nprovided trench/ pipe as per specification no. CB-LT/AL",
+        "Quantity": "750"
+    },
+    {
+        "BOQ_Item_No.": "135",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 4 core 16 sq. mm. aluminium conductor complete erected with glands & lugs, on wall/ trusses/pole or laid in provided trench/ pipe as per specification no. CB-LT/AL",
+        "Quantity": "539"
+    },
+    {
+        "BOQ_Item_No.": "136",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 3½ core 70 sq. mm. aluminium\nconductor complete erected with glands & lugs, on wall/ trusses/pole or laid in provided trench/ pipe as per specification no. CB-LT/AL",
+        "Quantity": "120"
+    },
+    {
+        "BOQ_Item_No.": "137",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 3½ core 185 sq. mm. aluminium conductor complete erected with glands & lugs, on wall/ trusses/pole or laid in\nprovided trench/ pipe as per specification no. CB-LT/AL + 180 mtr qty from sw5 sr no 15",
+        "Quantity": "260"
+    },
+    {
+        "BOQ_Item_No.": "138",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 3½ core 300 sq. mm. aluminium conductor complete erected with glands & lugs, on wall/ trusses/pole or laid in provided trench/ pipe as per specification no. CB-LT/AL",
+        "Quantity": "55"
+    },
+    {
+        "BOQ_Item_No.": "139",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel  formed wire armoured (strip) cable 1100 V, 3 core 2.5 sq. mm. copper conductor complete erected with glands & lugs, on wall/ trusses/ pole or laid in\nprovided trench/ pipe as per specification no. CB-LT/CU",
+        "Quantity": "650"
+    },
+    {
+        "BOQ_Item_No.": "140",
+        "Description of Work": "Supplying and erecting HMS PVC conduit FRLS grade 25 mm dia. With necessary accessories in wall/floor with chiselling appropriately as per specification No: WG- MA/CC.",
+        "Quantity": "19612"
+    },
+    {
+        "BOQ_Item_No.": "141",
+        "Description of Work": "Supplying and erecting HMS PVC conduit FRLS grade 32 mm dia. With necessary accessories in wall/floor with chiselling appropriately as per specification No: WG- MA/CC.",
+        "Quantity": "21503"
+    },
+    {
+        "BOQ_Item_No.": "142",
+        "Description of Work": "Concealing of provided G.I. pipe/H.G. screwed conduit/PVC pipe in wall/floor/false ceiling complete as per specification No:WG-PW/CW",
+        "Quantity": "1508"
+    },
+    {
+        "BOQ_Item_No.": "143",
+        "Description of Work": "Supplying and erecting 25 mm dia. corrugated flexible polypropylene conduit",
+        "Quantity": "2002"
+    },
+    {
+        "BOQ_Item_No.": "144",
+        "Description of Work": "Supplying and erecting mains with 3x2.5 sq.mm FRLSH copper PVC insulated wire laid in provided conduit/trunking/inside pole/Bus bars or any other places as per specification No: WG-MA/BW",
+        "Quantity": "20568"
+    },
+    {
+        "BOQ_Item_No.": "145",
+        "Description of Work": "Supplying and erecting mains with 3x4 sq.mm FRLSH copper PVC insulated wire laid in provided conduit/trunking/inside pole/Bus bars or any other places as per specification No: WG-MA/BW",
+        "Quantity": "21988"
+    },
+    {
+        "BOQ_Item_No.": "146",
+        "Description of Work": "Supplying and erecting modular type switch 6A / 10A duly erected on provided plate and box with wiring connections complete.",
+        "Quantity": "944"
+    },
+    {
+        "BOQ_Item_No.": "147",
+        "Description of Work": "Supplying and erecting modular type switch one way 16 / 20 A, duly erected on provided plate and box with wiring connections complete with neon indicator.",
+        "Quantity": "464"
+    },
+    {
+        "BOQ_Item_No.": "148",
+        "Description of Work": "Supplying and erecting modular type 3 pin 6A multi socket with safety shutter, duly erected on provided plate and box with wiring connections\ncomplete.",
+        "Quantity": "944"
+    },
+    {
+        "BOQ_Item_No.": "149",
+        "Description of Work": "Supplying and erecting modular type 3 pin 6 / 16A multi socket with safety shutter, duly erected on provided plate and box with wiring connections\ncomplete.",
+        "Quantity": "464"
+    },
+    {
+        "BOQ_Item_No.": "150",
+        "Description of Work": "Supplying and erecting modular type T.V. socket single outlet, duly erected onprovided plate and box with wiring connections complete",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "151",
+        "Description of Work": "Supplying and erecting modular type telephone socket one gang with safety shutter, duly erected on provided plate and box with wiring connections\ncomplete.",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "152",
+        "Description of Work": "Supplying and erecting modular type blanking plate one module, duly erected on provided plate & box.",
+        "Quantity": "458"
+    },
+    {
+        "BOQ_Item_No.": "153",
+        "Description of Work": "Supplying and erecting modular type computer Jack RJ45 with safety shutter, duly erected on provided plate and box with wiring connections complete.",
+        "Quantity": "461"
+    },
+    {
+        "BOQ_Item_No.": "154",
+        "Description of Work": "Supplying and erecting modular type (two module) electronic step regulator\nfor fan, duly erected on provided plate and box with wiring connections complete.",
+        "Quantity": "941"
+    },
+    {
+        "BOQ_Item_No.": "155",
+        "Description of Work": "Supplying and erecting unbreakable concealed type modular switch box with double mounting plate for 2 module duly erected flush to wall with required chiselling and finishing with cement mortar / POP as per required to match the\nbackground.",
+        "Quantity": "461"
+    },
+    {
+        "BOQ_Item_No.": "156",
+        "Description of Work": "Supplying and erecting unbreakable concealed type modular switch box with double mounting plate for 3 module duly erected flush to wall with required\nchiselling and finishing with cement mortar / POP as per required to match the background.",
+        "Quantity": "464"
+    },
+    {
+        "BOQ_Item_No.": "157",
+        "Description of Work": "Supplying and erecting unbreakable concealed type modular switch box with double mounting plate for 6 module duly erected flush to wall with required chiselling and finishing with cement mortar / POP as per required to match the background.",
+        "Quantity": "472"
+    },
+    {
+        "BOQ_Item_No.": "158",
+        "Description of Work": "Point wiring for light/bell concealed type in min 20 mm FRLS grade HMS PVC conduit with 1.5 sq.mm. (2+1E) FRLSH grade copper wires, modular type switch, earthing and required accessories as per specification No: WGPW/\nCW",
+        "Quantity": "5261"
+    },
+    {
+        "BOQ_Item_No.": "159",
+        "Description of Work": "Point wiring for ceiling fan concealed type in min 20 mm FRLS grade HMS PVC conduit with 1.5 sq.mm. (2+1E) FRLSH grade copper wires, modular type switch, earthing and required accessories as per specification No: WGPW/\nCW",
+        "Quantity": "947"
+    },
+    {
+        "BOQ_Item_No.": "160",
+        "Description of Work": "Point wiring for independent plug, concealed type in min 20 mm FRLS grade HMS PVC conduit with 1.5 sq.mm (2+1E) FRLSH grade copper wires, modular type switch, earthing and required accessories as per\nspecification No WG-PW/SW",
+        "Quantity": "484"
+    },
+    {
+        "BOQ_Item_No.": "161",
+        "Description of Work": "Wiring for plug on board with Switch socket surface/concealed type, copper\nwiring and earthing and with modular accessories as per specification No: WGPW/ CW",
+        "Quantity": "933"
+    },
+    {
+        "BOQ_Item_No.": "162",
+        "Description of Work": "Supplying and erecting anodized aluminium mirror light LED fitting (2 feet) Max. 12W with high transitivity diffuser with min. system lumens output of 1200 lumens, min. efficacy of 100 lumen/W, CRI>80, CCT upto 6000K, Beam Angle of 110 deg., Ripple<5%, THD<10%, p.f. >0.95, operating range of 200-270V, surge protection of 2 kV, Life class of 50,000 Hrs. at L70B50, including driver with end caps on provided PVC\nBlock / wooden board with 3 years warranty.",
+        "Quantity": "460"
+    },
+    {
+        "BOQ_Item_No.": "163",
+        "Description of Work": "Supplying & erecting decorative pre-wired box type fitting/batten suitable for 4 feet, T8 LED tube light and Supplying & erecting ready to use Retrofit T8 LED 18 / 20 tube light\nwith polycarbonate body, heat sink, integrated HF electronic driver complete & compatible to T8 / T12 LED luminaire.",
+        "Quantity": "42"
+    },
+    {
+        "BOQ_Item_No.": "164",
+        "Description of Work": "Supplying and erecting bulk head LED fitting max. 10W with high transitivity diffuser with system lumens output of min. 1100 lumens, min. efficacy of 110 lumen/W, CRI>80, CCT upto 6500K, Beam Angle of 120 deg., THD<10%, p.f. >0.95, operating range of 140-260V, in built surge protection of 2.5 kV, Life class of 50,000 Hrs. at L70B50,\nincluding driver, IP66, IK09 rated on provided PVC Block / wooden board with 3 years warranty.",
+        "Quantity": "102"
+    },
+    {
+        "BOQ_Item_No.": "165",
+        "Description of Work": "Supplying and erecting LED square / circular Max. 18 W down lighter/\nPanel Light having pressure die-cast aluminium housing, polystyrene diffuser having system lumens output of Min. 2000 Lumens, min. efficacy of 110 lumen/W, CRI>80, CCT upto 6500K, Beam Angle of 120 deg., max. ripple of 5%, THD<10%, p.f. >0.95, operating range of 120-270V, surge protection of\n2.5 kV, Life class of 50,000 Hrs. at L70B50, including driver, having mounting arrangement with board for surface type or spring loaded mounting clips complete with 3 years warranty.",
+        "Quantity": "4215"
+    },
+    {
+        "BOQ_Item_No.": "166",
+        "Description of Work": "Supplying and erecting integrated LED street light fitting 40 to 50W IP65 &IK08 class having single piece pressure die-cast aluminium housing, havingsystem lumens output of Min. 4400 Lumens, min. efficacy of 110 lumen/W,CRI>70, CCT upto 6500K,THD<10%,\np.f. >0.95, operating range of 140-270V,inbuilt surge protection of 10 kV, Life class of 50,000 Hrs. at L70B50, includingdriver complete with 3 Years warranty as per specification No FG-ODF/FLS2",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "167",
+        "Description of Work": "Supplying and erecting street light Wall bracket made from 25 mm. dia ‘ G.I. pipe 1.2 m. in total length complete as per specification no. FG-BKT/WB",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "168",
+        "Description of Work": "Supplying & erecting FRP box of size 150mm x 125mm x 100 mm, 2.7 mm thick complete on pole/wall as per specification No. CB-SB",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "169",
+        "Description of Work": "Supplying and erecting Energy Saving BLDC Ceiling fan 230 V A.C. 50 cycles 1200 mm, max. energy consumption of 28W having service ratio (CMM/W)\nof Min. 8 , PF>0.9, THD<10% with IR remote control/compatible speed regulator, Temperature Rise of Max. 40 deg. C, having external mounted control\nPCB completely erected in position as per specification no. FG-FN/CF reduce 10% without IR remote",
+        "Quantity": "941"
+    },
+    {
+        "BOQ_Item_No.": "170",
+        "Description of Work": "Supplying and erecting fresh air cum exhaust fan of light duty 250 V A.C. 50 cycles 300mm. 1400 RPM rust proof body & blades, wire mesh, duly erected, complete.",
+        "Quantity": "460"
+    },
+    {
+        "BOQ_Item_No.": "171",
+        "Description of Work": "Supplying & erecting 22 SWG G.I sheet metal cawl sector shaped with 25 x 25 x 3 (mm) angle iron frame, metal mesh to avoid birds entry with necessary material, suitable for exhaust fan of 300 mm as per specification no FG-FAS/MSC",
+        "Quantity": "460"
+    },
+    {
+        "BOQ_Item_No.": "172",
+        "Description of Work": "Supplying, erecting, testing and commissioning rust free microphone table stand of chrome plating/powder coating or S.S. material, up to 500 mm height and suitable base for sturdy mechanism ensuring trouble free movement complete.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "173",
+        "Description of Work": "Supplying and erecting midget type 3.0 litres instant type water heater of rustproof & shockproof ABS plastic body, high grade SS inner tank & 3kW heating element with corrosion & hard water protection, with minimum 3 safety protections (i.e. thermostat & thermal cut-out, function valve) complete with 6.5 bar pressure withstanding capacity 230/250V, 50Hz, A.C. supply with inlet and outlet, with 3 core PVC flexible copper wire leads duly\ntested and marking sr. no. and date of erection complete.",
+        "Quantity": "400"
+    },
+    {
+        "BOQ_Item_No.": "174",
+        "Description of Work": "Supplying, erecting, testing and commissioning 15 to 30 Watts sound column or ceiling mounted complete as per specification no. FF-PA/SOC",
+        "Quantity": "8"
+    },
+    {
+        "BOQ_Item_No.": "175",
+        "Description of Work": "Supplying, erecting, testing and commissioning stand mounted/handheld\ntype wired microphone having 2 mV/Pa sensitivity, impedance level limit 300 ohms and 50 - 16000 Hz suitable to operate in -10 deg C to +55 deg C with min. 7 metre shielded cable and 3 Pin Professional XLR Connector, stereo jack\ncomplete as per specification no. FF-PA/MIC + 1 no. qty from sw6 FA sr.no.26",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "176",
+        "Description of Work": "Supplying, erecting, testing and commissioning rust free microphone floor stand of\nchrome plating/powder coating or S.S. material , 500 mm to 1500 mm height and sturdy mechanism ensuring trouble free movement complete.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "177",
+        "Description of Work": "Supplying, erecting, testing and commissioning rust free microphone table stand of chrome plating/powder coating or S.S. material, up to 500 mm height\nand suitable base for sturdy mechanism ensuring trouble free movement complete. + 1 no. qty from sw6 FA sr.no.27",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "178",
+        "Description of Work": "Supplying, erecting, testing and commissioning of 2 core shielded cable\ncomplete as per specification no. FF-PA/MCC + 20 no. qty from sw6 FA sr.no.28",
+        "Quantity": "25"
+    },
+    {
+        "BOQ_Item_No.": "179",
+        "Description of Work": "Supplying, erecting, testing and commissioning of 1.0 sq. mm speaker wire complete.",
+        "Quantity": "250"
+    },
+    {
+        "BOQ_Item_No.": "180",
+        "Description of Work": "Providing & erecting Hot dipped galvanized ladder type cable\ntray manufactured from 16 swg (1.6 mm thick) GI sheet of 500 mm width & 100 mm height comprising all required standard accessories.",
+        "Quantity": "600"
+    },
+    {
+        "BOQ_Item_No.": "181",
+        "Description of Work": "Providing & erecting hot dipped galvanised ladder type cable tray manufactured from 16 SWG (1.6 mm thick) GI sheet of 150 mm width & 100\nmm height comprising all required standard accessories + 150 mtr qty srom sw5 sr.no.19",
+        "Quantity": "600"
+    },
+    {
+        "BOQ_Item_No.": "182",
+        "Description of Work": "Providing & erecting hot dipped galvanised ladder type cable tray manufactured from 16 SWG (1.6 mm thick) GI sheet of 200 mm width & 100\nmm height comprising all required standard accessories.",
+        "Quantity": "300"
+    },
+    {
+        "BOQ_Item_No.": "183",
+        "Description of Work": "Providing & erecting hot dipped galvanised ladder type cable traymanufactured from 16 SWG (1.6 mm thick) GI sheet of 300 mm width & 100mm height comprising all required\nstandard accessories.+ 150 mtr qty srom sw5 sr.no.20",
+        "Quantity": "650"
+    },
+    {
+        "BOQ_Item_No.": "184",
+        "Description of Work": "Providing & erecting hot dipped galvanised cover suitable for perforated type\nCable tray manufactured from 18 SWG (1.2 mm thick) GI sheet of 400 mm width & 20 mm height complete with necessary hardware.",
+        "Quantity": "300"
+    },
+    {
+        "BOQ_Item_No.": "185",
+        "Description of Work": "Providing & erecting hot dipped galvanised cover suitable for perforated type Cable tray manufactured from 18 SWG (1.2 mm thick) GI sheet of 500 mm\nwidth & 20 mm height complete with necessary hardware.",
+        "Quantity": "200"
+    },
+    {
+        "BOQ_Item_No.": "186",
+        "Description of Work": "Providing & erecting of 8 mm Aluminum Round Conductor complete as specified in drawing & Meets the requirements of DIN EN 50164-2 (VDE 0185 part 202) & VDE\n0185-305 (IS/IEC 62305) ,",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "187",
+        "Description of Work": "Providing & erecting holder: With M8 female thread or diameter 7mm, M8 Screw to connect the conductor holder. Weather and temperature resistant from -35 to +90 degree\nCelsius tested. Conductor holder @ 1 meter distance.",
+        "Quantity": "250"
+    },
+    {
+        "BOQ_Item_No.": "188",
+        "Description of Work": "Providing & erecting Polyamide roof cable holder for flat roof: DIN 48829 Form B1.\nClosed form with bottom. Filling weight 1Kg (frost-resistant concrete). Sleeve from polyethylene, black @ 1 meter distance.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "189",
+        "Description of Work": "Providing & erecting of cross universal connector: For T and cross connection,to route vertical down conductor /mesh formation made of hot dipped galvanised iron with necessary screws etc as required. Installed with 4 hexagonal bolts M8*25 with M8 hexagonal nuts .",
+        "Quantity": "15"
+    },
+    {
+        "BOQ_Item_No.": "190",
+        "Description of Work": "Providing & erecting of expansion piece with connector: For equalising temperature related length changes. Necessary on conductors\nlength over 20 meters. For round conductor Rd 8/ALU.",
+        "Quantity": "15"
+    },
+    {
+        "BOQ_Item_No.": "191",
+        "Description of Work": "Providing & erecting of Connector: For T cross and parallel connectors. Quick installation using hexagonal bolt M10X30 high-grade hot dip galvanised. Conforms to the\nrequirements according to DIN VDE 0185-305 (IS-IEC 62305)(2nos/expansion piece ).",
+        "Quantity": "15"
+    },
+    {
+        "BOQ_Item_No.": "192",
+        "Description of Work": "Providing & erecting of Vertical air terminal with accessories:Providing of Air terminals as per IS-IEC -62305 part-3 10 mm aluminium rod :\nMeets the technical specification according to DIN EN 50164-2 (VDE 0815 part 202). Meets the requirement of VDE0185/305(IS/IEC 62305) 4 Mtr Airterminal: semi-hard (E- AlMgSiO5 corresponds to DIN 48801) Suitable for high wind load.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "193",
+        "Description of Work": "Providing & erecting of Stand for Fang Fix system 16 kg with base and clamp ,made up of frost resistant concrete and tested upto 100KA lightning current .",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "194",
+        "Description of Work": "Providing & erecting of Stand for Fang Fix system 16 kg with base and clamp ,made up of frost resistant concrete and tested upto 100KA lightning current .",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "195",
+        "Description of Work": "Providing & erecting of Vertical air terminal with accessories:Providing of Air terminals as per IS-IEC -62305 part-3 10 mm aluminium rod :\nMeets the technical specification according to DIN EN 50164-2 (VDE 0815 part 202). Meets the requirement of VDE0185/305(IS/IEC 62305)\n2 Mtr Airterminal: semi-hard (E-AlMgSiO5 corresponds to DIN 48801) Suitable for high wind load. OBO Type No. 101 VL2000 ( 5401 98 3)",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "196",
+        "Description of Work": "Providing & erecting of 8 mm Aluminum Round Conductor complete as specified in\ndrawing & Meets the requirements of DIN EN 50164-2 (VDE 0185 part 202) & VDE 0185-305 (IS/IEC 62305) ,",
+        "Quantity": "500"
+    },
+    {
+        "BOQ_Item_No.": "197",
+        "Description of Work": "Providing & erecting of Galvanised Steel Flat 30X3 mm thickness from earth\nelectrode directly in ground as required. Flat conductor shall be of Hot Dipped & Cross sectional area of 90mm square\nAccording to DIN EN 50164-2 (VDE 0185 part 202) Meets the\nrequirement of VDE0185/305(IS-IEC 62305) Zinc coating: 500 g/m square (Approx :70 micron coating) Should be tested and used exclusively for lightning protection earthing system and ring equipotential bonding.",
+        "Quantity": "500"
+    },
+    {
+        "BOQ_Item_No.": "198",
+        "Description of Work": "Providing & erecting of diagonal clamp suitable for FL 30. Installed with 2 hexagonal bolts.",
+        "Quantity": "18"
+    },
+    {
+        "BOQ_Item_No.": "199",
+        "Description of Work": "Providing & erecting Cross connector for earth fixing point suitable for FL 30. Installed with 2 hexagonal bolts.",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "200",
+        "Description of Work": "Providing & erecting of earth fixing point for connecting Air terminal with earth fixing point",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "201",
+        "Description of Work": "Supplying & erecting aviation obstruction light consisting of yellow painted die-cast aluminium alloy housing with integral\nLED aviation light comprising of aluminium housing with polycarbonate enclosure complete.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "202",
+        "Description of Work": "Supplying and erecting ISI mark modular type computer jack RJ 45 with safety shutter, duly erected on provided plate and box with wiring connections complete.",
+        "Quantity": "461"
+    },
+    {
+        "BOQ_Item_No.": "203",
+        "Description of Work": "Supplying and fixing cat-6 LSZH cable suitable for LAN /WAN as per specification complete.+200 mtr qty from sw1 sr.no.94",
+        "Quantity": "2700"
+    },
+    {
+        "BOQ_Item_No.": "204",
+        "Description of Work": "Supplying and fixing 24 port patch panel with tool-less keystone jacks in provided U Rack complete as per specification no. + 16 Nos qty from sw1 sr no.108",
+        "Quantity": "48"
+    },
+    {
+        "BOQ_Item_No.": "205",
+        "Description of Work": "Supplying, fixing, and configuring 24 ports, POE switch in provided rack as per specification",
+        "Quantity": "32"
+    },
+    {
+        "BOQ_Item_No.": "206",
+        "Description of Work": "Supplying and fixing 9U wall mount rack (Dimension-DxWxH – 500x600x500 mm) as per specification No. WG-NAS/RAK",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "207",
+        "Description of Work": "Supplying and erecting ISI marked modular type telephone socket one gang with safety shutter, duly erected on provided plate and box with wiring connections complete.",
+        "Quantity": "20"
+    },
+    {
+        "BOQ_Item_No.": "208",
+        "Description of Work": "Supplying, installing, testing & commissioning IP telephone instrument as per specification complete.",
+        "Quantity": "20"
+    },
+    {
+        "BOQ_Item_No.": "209",
+        "Description of Work": "Supplying, installing, testing & commissioning digital (hybrid) type EPABX of 6x 16 extension complete..",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "210",
+        "Description of Work": "Supplying and installing, testing & commissioning of digital (hybrid) type EPABX of 6 x 32 extensions suitable upto 96 extensions complete.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "211",
+        "Description of Work": "Supplying, installing, testing & commissioning IP EPABX for 10 extensions complete.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "212",
+        "Description of Work": "Supplying & installing expansion cabinet for extension of digital hybrid EPABX to expand system by 32 ports with programming and configuration of extensions and direct lines\nwith required accessories complete.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "213",
+        "Description of Work": "Supplying, erecting & commissioning 50 pairs FR junction box with moulded plastic enclosure as per specification no. MAKE :-",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "214",
+        "Description of Work": "Supplying & erecting 50 pair, 0.5 mm dia. jelly filled armoured telephone copper cable with poly-al laminate moisture barrier, polythene sheathed, G.S.Tape armoured polythene jacketed having laid in provided trench as per specification No.",
+        "Quantity": "120"
+    },
+    {
+        "BOQ_Item_No.": "215",
+        "Description of Work": "Supplying and installing cat-6 cable suitable for networking as per specification no.",
+        "Quantity": "1489"
+    },
+    {
+        "BOQ_Item_No.": "216",
+        "Description of Work": "Providng earthing with galvanized iron earth plate size 60 x 60 x 0.6 cm complete with all materials, testing & recording the results as per specification no.EA-EP",
+        "Quantity": "8"
+    },
+    {
+        "BOQ_Item_No.": "217",
+        "Description of Work": "Supplying and erecting GI strip of high purity required size used for earthing on wall and/or any other purpose with necessary GI clamps fixed on wall ainted with bituminous paint with joints required. As per specification no EA-EP.",
+        "Quantity": "50"
+    },
+    {
+        "BOQ_Item_No.": "218",
+        "Description of Work": "Supplying, installing, testing & commissioning of 64/80 Ch Network Video Recorder (NVR), suitable connect Min. 64 IP Cameras, up to 5 Megapixel Resolution, with HDMI 1/VGA 1 and HDMI 2/VGA 2 outputs provided, Atleast one HDMI output of 4K resolution, atleast one VGA output with output up to 1920 × 1080,\nSupport H.265 or higher, H.264, MJPEG, Supports Redundant Dual Power,\nIncoming Bandwidth 320 Mbps with minimum 8 SATA Hard Disks, ANR Technology, 8 SATA interfaces for 8 HDDs and capacity of each HDD up to 8TB,\nminimum 02 USB port, Alarm I/O 16/4, RJ-45 10/100/ 1000 Mbps self-adaptive Ethernet interface,\nsupport multi brand network Cameras, ONVIF conformance,\nMultiple network monitoring: Web viewer .\nsupport protocol TCP/IP, DHCP, DNS, DDNS, NTP, SADP, SMTP, NFS, iSCSI, UPnP™, HTTPS.\nRoHS, UL, CE, FCC certified.\nduly erected in provided U Rack with wiring connections, tagging and programming etc. complete as per specificationss no. CCTV-NVR",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "219",
+        "Description of Work": "Supply and installation of 8TB surveillance storage Hard Disk Drive-24r/ Surveillance HDO capacity -8 TB interface- SATA lll 6 Gb/s Max sustained Transfer Rate OD- 210 MB/s cache-256 MB Tamish Resistant load /unloadcycles- 300 000 power on Hours/ year 8760 mean Tim Between failures (MTBF) - 1 million hours operatingTemperature- Ambient: 4'l F/5 C(min) Drive case : '158 F/70C (max) Non operating Temperature Ambient : 40 F/{0C (min). Make - Seagate - require 170 TB capacity for 90 days as per\nDIT norms",
+        "Quantity": "22"
+    },
+    {
+        "BOQ_Item_No.": "220",
+        "Description of Work": "Supply, Installing, Testing & Commissioning of professional Monitor LED TV of 43 inches or higher size having following minimum specifications Display Size 108 cm (43 inch) Screen Type LED HD Technology & Resolution: Ultra HD (4K), 3840 x 2160 HDMI#3 nos , USB#2nos, Built In Wi-Fi Video Features: Brightness:280 nits Contrast Ratio: 5000:1 (Static),Picture in Picture (PIP) View Angle#178 Degree Aspect Ratio#16:09 Refresh Rate#60 Hz Audio Features: Number of Speakers#2nos, Output RMS#30 W Smart Tv Features Ram 2 GB, Storage Memory:8 GB Supported App - Netflix,Youtube, Disney+Hotstar,Prime Video Operating System: Android Bluetooth, Built In Wi-Fi smart wireless remote with 2nos AAA batteries operating Voltage range\n110v to 220V AC 50Hz supply Power Consumption: 75 W, 0.5 W (Standby) Warranty Summary : 1 Year Warranty, 2 Years for Panel",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "221",
+        "Description of Work": "Supplying & erecting of High definition 2 Megapixel IP IR Bullet Camera with following features :\nImage Sensor : minimum 1/2.8\" Progressive Scan CMOS, Video Resolution : minimum 1920 x 1080\nVideo Compression : H.264, H.265 or higher, at least Three individually configurable stream,\nFrame rate : minimum 25 fps at all resolutions, WDR : minimum 120 dB Wide Dynamic Range, ONVIF profile conformant,\nminimum IR distance : 30m,\nLens Type : 2.8/4/6 mm Lens, fixed focal, Field of View :\n2.8 mm, horizontal FOV 107°, vertical FOV 57°, diagonal FOV 129°\n4 mm, horizontal FOV 86°, vertical FOV 47°, diagonal FOV 102°\n6 mm, horizontal FOV 55°, vertical FOV 29°, diagonal FOV 65°\nLux sensitivity - minimum 0.2 Lux at color, minimum 0.05 Lux at Black & White, 0.0 Lux (IR) Night Vision Distance minimum IR - 30m.\nCamera minimum Adjustment Angles - Pan : 350°, Tilt : 72°, Rotate : 350°. Power Supply : Support 12VDC & PoE,\nIP67, IK10 - Vandal Resistant.\nBuilt in micro SD/SDHC/SDXC card slot of minimum 128 GB, Built in microphone.\nminimum Input/Output - Audio in × 1, Audio Out × 1, Alarm in × 1, Alarm Out × 1. Image Settings : Rotate mode, saturation, brightness, contrast, sharpness, gain, white balance.\nImage Enhancements : Day/Night-Auto (ICR)/Color/Black & White, 3D Digital Noise Reduction, Automatic White Balance, Automatic Gain Control, Backlight Compensation, Highlight Compensation.\nEvents : Privacy Masking, Motion detection, Scene change detection, Face capture, Video tampering, audio exception detection, Region entrance detection, Region exiting detection.\nOperating temperature ( -30 to 60° C ) .\nSecurity- User account and password protection, HTTPS, IP filter, IEEE 802.1X, digest authentication, user access log, TLS1.2, AES - 256, SSH/Telnet closed, FTP disabled. Protocol - DHCP, UDP, HTTP, HTTPS, NTP, DNS, RTP, RTSP, SMTP, SSL/TLS,\nTCP/IP, Secure Real-Time Transport Protocol (SRTP), Bonjour, SNMP and Secure shell (SSH) supported protocol.\nRoHS, WEEE, ISO-14001 and REACH compliant, UL/EN OR equivalent BIS/TECH/STQC or any indian standards as applicable, CE, FCC certified.\nduly erected in position on wall/ceiling/false ceiling/provided pole (mounting height not more than 5 meter) etc with all accessories etc complete as per specification no.CCTV- CCTV.",
+        "Quantity": "160"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "222",
+        "Description of Work": "Supplying and erecting HMS PVC conduit FRLS grade 25 mm dia. with PVC accessories on wall /ceiling as per specification No: WG-MA/CON.",
+        "Quantity": "2500"
+    },
+    {
+        "BOQ_Item_No.": "223",
+        "Description of Work": "Supplying and erecting 3m HDMI cord low voltage grade minimum 4k compliant to be laid in provided conduits with male/female 19 pin HDMI connectors complete.",
+        "Quantity": "15"
+    },
+    {
+        "BOQ_Item_No.": "224",
+        "Description of Work": "Supplying and installing cat-6 armoured cable with ECCS tape suitable for networking as per specification No. WG-COC/NC",
+        "Quantity": "1800"
+    },
+    {
+        "BOQ_Item_No.": "225",
+        "Description of Work": "Supplying, installing and testing UTP connector (RJ-45) as per specification No.WG- NAS/UTPC.",
+        "Quantity": "320"
+    },
+    {
+        "BOQ_Item_No.": "226",
+        "Description of Work": "Supplying, fixing, and configuring 8-ports 1 G unmanaged gigabit POE switch erected in provided rack complete.",
+        "Quantity": "16"
+    },
+    {
+        "BOQ_Item_No.": "227",
+        "Description of Work": "Supplying and fixing 1 m UTP patch cord of Cat 6 type in position as per specification No. WG-COC/PC",
+        "Quantity": "65"
+    },
+    {
+        "BOQ_Item_No.": "228",
+        "Description of Work": "Supplying and fixing 15U wall mount rack (Dimension-DxWxH – 500x600x767 mm) as per specification No. WG-NAS/RAK",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "229",
+        "Description of Work": "Supplying, erecting, testing and commissioning of single phase input & 1 phase output 1 kVA capacity online pure sine wave UPS, with backup time of Min 0.5 hrs. PWM & IGBT based, with 0.8 to unity output pf complete with all protections as per specification",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "230",
+        "Description of Work": "Supplying and erecting 12 V/65Ah SMF battery with battery terminal wire, duly charged complete with 24 months warranty complete",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "231",
+        "Description of Work": "Supplying, installing, testing and commissioning of ETC solar water heating system without heat exchanger type of 300 LPD capacity with SS water tank of\n0.5 mm thickness conforming to IS1239 Part-I :2004 complete as per specification no. ESD-SHWS-ETC",
+        "Quantity": "18"
+    },
+    {
+        "BOQ_Item_No.": "232",
+        "Description of Work": "Supplying and erecting 32/40 mm (ID/OD) Chlorinated polyvinyl chloride pipe (CPVC), thickness 3.8 mm conforming to IS 15778 (CTS Series) with\nnecessary CPVC fittings and solvent cement for Solar Water Heater System as per specification No. ESD-HWP/CPVC",
+        "Quantity": "70"
+    },
+    {
+        "BOQ_Item_No.": "233",
+        "Description of Work": "Supplying and erecting 25/32 mm (ID/OD) Chlorinated polyvinyl chloridepipe (CPVC),\nthickness 3.2 mm conforming to IS 15778 (CTS Series) withnecessary CPVC fittings and solvent cement for Solar Water Heater System as perspecification No. ESD-HWP/CPVC",
+        "Quantity": "890"
+    },
+    {
+        "BOQ_Item_No.": "234",
+        "Description of Work": "Supplying and erecting 20/25 mm (ID/OD) Chlorinated polyvinyl chloride pipe (CPVC), thickness 2.6 mm conforming to IS 15778 (CTS Series) with\nnecessary CPVC fittings and solvent cement for Solar Water Heater System as per specification No. ESD-HWP/CPVC",
+        "Quantity": "160"
+    },
+    {
+        "BOQ_Item_No.": "235",
+        "Description of Work": "Supplying and erecting elastomeric nitrile rubber / foam tube type sleeves\nfor coating and insulating on provided PC / copper pipes having 9 mm thickness and inner diameter / sizes 42 mm for solar water heater/AC system.",
+        "Quantity": "36"
+    },
+    {
+        "BOQ_Item_No.": "236",
+        "Description of Work": "Supplying and erecting elastomeric nitrile rubber / foam tube type sleeves\nfor coating and insulating on provided PC / copper pipes having 9 mm thickness and inner diameter / sizes 32 mm for solar water heater/AC system",
+        "Quantity": "70"
+    },
+    {
+        "BOQ_Item_No.": "237",
+        "Description of Work": "Supplying and erecting elastomeric nitrile rubber / foam tube type sleeves\nfor coating and insulating on provided PC / copper pipes having 9 mm thickness and inner diameter / sizes 28 mm for solar water heater/AC system.",
+        "Quantity": "890"
+    },
+    {
+        "BOQ_Item_No.": "238",
+        "Description of Work": "Providing replacement of existing unserviceable SS water tap of for solar wate heater system by new one of same capacity, testing to\nthe satisfaction of site engineer for cooling and along with guarantee for one year with suitable refrigerant.",
+        "Quantity": "400"
+    },
+    {
+        "BOQ_Item_No.": "239",
+        "Description of Work": "Supplying, erecting, testing and commissioning self contained water cooler 230/250V 50Hz nominal cooling capacity of 150 litres per hour and storage\ncapacity 150 litres with partially stainless steel body as per specification no. APWCR/ WC",
+        "Quantity": "15"
+    },
+    {
+        "BOQ_Item_No.": "240",
+        "Description of Work": "Supplying and erecting ultra violet storage type water purifier (RO+UV+UF) with softener for safe drinking water consisting of UV germicidal tube of 8W capacity choke made of copper wire and two indicator lamps with output of purified water minimum 0.33 litre/min with activated carbon filter and softener operating on 230V, single phase A.C. supply with UV fail & filter change\nindication system .(for TDS more than 200)",
+        "Quantity": "15"
+    },
+    {
+        "BOQ_Item_No.": "241",
+        "Description of Work": "Supplying, installing, testing and commissioning of 10 kWp ON-GRID Solar PV System / Plant consisting Solar PV Poly Crystalline Panel (335 Wp X 30\nNos.) and Solar ON-GRID Inverter of similar capacity (THD<3%) with interconnecting wires / cables up to solar ON GRID inverter, proper base plate, canopy box to house Inverter and necessary accessories i.e. ACDB/ DCDB , MCB etc. wiring up to solar Inverter in casing and capping, display board, sign board, two distinct earthing, lightning arrester, liaisoning charges, remote monitoring system with maintaining card/chip for 5 years including net charges for RMS System, complete up to net meter installation and export to the grid with 5 year ON-SITE warranty and fully comprehensive maintenance contract as\nper Specification no. ESD-RT-ONG",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "242",
+        "Description of Work": "Supplying and erecting minimum Three & above star rated 3 phase, 415 V, 50 Hz, submersible pump set of 7.5 KW/10HP suitable for erection on open well, pump having delivery head from 72 to 28 m and discharge from 120 to 840 litres. per minute & pipe of Suction 65 mm/Delivery 50 mm diameter erected with necessary H type clamps as per\nspecification No. WP-OSP",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "243",
+        "Description of Work": "Supplying & erecting automatic control panel for 3 Ph, 415 volt, A.C. submersible/centrifugal pump set up to 7.5 HP - 10 H.P. consisting of DOL starter having relay range 13-21 AMP,S.P.P., Combined ammeter/voltmeter, phase indicating lamp enclosed in CRCA powder coated Vibration proof enclosure with IP 54 protection.\nControl Panel should offer single phasing, phase reversal, phase imbalance etc.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "244",
+        "Description of Work": "Supplying & erecting flat flexible 3 core 6 sq.mm PVC sheathed submersible type copper cable suitably clamped at fixed intervals with column pipe assembly complete.",
+        "Quantity": "250"
+    },
+    {
+        "BOQ_Item_No.": "245",
+        "Description of Work": "Supplying & erecting Water level controller 230/415 V, A.C. , Two way under ground tank operation only.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "246",
+        "Description of Work": "Supplying & erecting directly operated Single phasing preventer complete erected and connected to supply to operate in case of single phasing with guarantee for minimum one\nyear.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "247",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 50 mm dia with necessary fittings\ncomplete as per specification no. FF-PP + 34 mtr qty from sw5 sr.no.23 + 780 mtr qty from sw5 sr.no.67",
+        "Quantity": "834"
+    },
+    {
+        "BOQ_Item_No.": "248",
+        "Description of Work": "Supplying and erecting 50 mm dia. cast iron double flange butterfly valve of size complete with PN16 pressure rating, as per specification no. FF-VL/BFV",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "249",
+        "Description of Work": "Supplying and erecting 75/80 mm dia cast iron double flange NRV complete with PN16 pressure rating, as per specification no. FF-VL/NRV + 2 nos. qty from sw5 sr.no.36",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "250",
+        "Description of Work": "Supplying and erecting iron work, sheet metal work consisting of CRCA sheets, various sections of iron, plates, chequered plates, rods, bars, MS pipes, etc. for panel board or any other purpose with bending, cutting, drilling and welding complete erected at the position with necessary materials duly painted with one coat of red oxide and two coats of enamel\npaint to match the switchgears or as per directions by the authority.",
+        "Quantity": "78"
+    },
+    {
+        "BOQ_Item_No.": "251",
+        "Description of Work": "Supplying, erecting & marking FPMCB 6A to 32A, with rated short - circuit breaking capacity (Icn) 10kA in provided distribution board as per specification no. SW-SWR/MCB",
+        "Quantity": "8"
+    },
+    {
+        "BOQ_Item_No.": "252",
+        "Description of Work": "Supplying, fixing and commissioning MCB type change over switch 4 pole, 25A with 3 positions (I-O-II) with centre off position as per specification no. SW-SWR / MCBCOS",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "253",
+        "Description of Work": "Supplying and erecting marine (Waterproof) plywood 18/19 mm thick fixed to wall or on provided panel board with necessary materials such as screws, wall fasteners, supports, nut bolts etc. complete with compliance to IS 720:2010",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "254",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel  formed wire armoured (strip) cable 1100 V, 4 core 10 sq. mm. copper conductor complete erected with glands & lugs, on wall/ trusses/ pole or laid in\nprovided trench/ pipe as per specification no. CB-LT/CU",
+        "Quantity": "120"
+    },
+    {
+        "BOQ_Item_No.": "255",
+        "Description of Work": "SITC of Electric Traction Passenger cum Stretcher Lift with",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Rated capacity :- 20 Passenger/1360Kg",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Floors :- G+15 upper floor (16Stops/16Landings)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Travel :- 3 to 67.2 mtrs",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Location of Lift Machine:- MR/MRL",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Rated speed :- 1 to 1.5 mps VS",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Car/Landing door clear opening of 1100 mm wide x 2000 mm high",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Clear Car size of 2000 mm wide x 1500 mm deep x 2250mm high",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Lift shaft available having clear size of 2400 mm wide x 3000 mm deep, 1600 mm Pit depth, 4800 mm Overhead.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Doors type :- COPO/TOPO Doors with frame made from SS 304 grade solid(non- cladded) sheet of 1.5mm thick in hairline finish for car and all landing doors with SS door architraves/frames The lift doors shall have minimum 1 hour fire rating (with submission\nof necessary valid test certificate issued by NABL accredited or Independent test laboratory).",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Lift car enclosure made from 304 grade solid(non-claded) sheet of 1.5mm, thick with hairline finish for side walls with rear side plane glass panels per drawing attached, for  full height with 304 grade solid(non-claded) framing complete with car frame made from MS girders, bracing of adequate size with minimum safety factor of 5, with Toe Guard Apron, with necessary false ceiling with adequate LED lights, blower/fan for ventilation\n& SS chequered plate flooring, handrails(3sides), mirror(side wall), emergency light etc. The lift car interior design shall be done as per the directions of engineer in charge.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       COP with SS face plate having metallic push buttons with Braille Code & luminous indicator around button with FPI, scrolling UP/DN LED indicator & with / without attendant key switch, OWD with audio-visual alarm, VAS in Marathi, Hindi & English with intercom system with telephone instrument in Lift car, LMR & FCC/ground floor",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       LOP with SS face plate having recess/surface push button box for all landings with scrolling UP/DN LED indicator having metallic push buttons with Braille Code & luminous indicator around button with CPI, Lift car arrival & next travel direction audio-\nvisual indication at all landings",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Lift controller of simplex full collective based on microprocessor/ PLC with VVVF Drive having closed loop control system, with IBMS compatible having necessary port, The Controller shall have necessary Protections such as overcurrent, overvoltage, over speed, overheat for all devices including lift motor and travel direction protection, protection for phase loss at input or output etc. ,various operation modes such as maintenance, change direction by attendant, full load bypass, VIP call operation, self leveling operation, call cancel facility, auto return to home landing, fireman evacuation operation, earthquake operation, door open/close operation from COP etc. The system can record information for minimum 30 latest faults, with Real-time clock management and Handheld keypad with LCD screen for view and setting of parameters, The control panel duly wired with proper size & strength, copper wire for power & control circuit, with\nprovision for addition of floor/control card & allied accessories control panel having enclosure of 1.5mm CRCA sheet with powder coating with IP54 Protection class",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       ARD complete with necessary SMF VRLA batteries",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Fireman controller having fireman switch at fire Landing.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       CCTV surveillance system comprises of 2nos minimum 2.0MP FHD IP based vandal proof Dome camera in lift car & in LMR/inside lift shaft top aimed on Lift\nmachinery & controller with NVR kept in LMR/FCC with HDR data backup for 90 days with 20” FHD TV monitor, to be kept in FCC/LMR as directed by Engineer In Charge.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Lift Machine of Gearless PMSM of suitable kW with duty cycle of minimum 120 starts/hr (with submission of necessary valid Test Certificate issued by NABL accredited or Independent Test laboratory), with Traction pulley, OSG, electromagnetic brakes,  entire assembly mounted on adequate size girders duly fixed on LMR floor/ shaft walls complete with main/diverter traction sheaves, suspension wire ropes/belts of adequate size\n& strength",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Other mechanical parts such as 'T' section adequate size guide rails for car & counter\nweight with brackets fasteners, counter weight frame with necessary blocks, buffers with necessary support arrangement, MS pit ladder etc. erected with necessary steel work",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "·       Minor civil work such as alteration work if any necessary for erection of landing door frames and it's accessories e.g. sill, header, hole pass etc complete with plaster finish, civil work for erection buffers, erection of lift machinery, adequate size core cuts if required & scaffolding for erecting guide rails, providing and fixing steel girders/RCC work having adequate strength for mounting and hoisting lift machine etc. complete as per\nspecification no. LFT.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "· General: - Job includes entire procedure of obtaining all necessary erection permissions & \"License to Work the Lift\" from Electrical Inspector(Lifts) with submission to the Engineer In Charge.\n· The above rate includes Fully Comprehensive AMC for one year from the date of commissioning",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "3095696(17.1.20)+38686(17.1.21-duplex control)+157313x8(A1-5 for above 7 upto 15 th floor)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "256",
+        "Description of Work": "Supplying, erecting, testing and commissioning of diesel generating set with alternator of 500 kVA output continuous rating, 3 Phase, 415 V, 50c/s 0.8 p. f. A.C supply, a totally enclosed air cooled / liquid cooled multi-cylinder diesel engine developing suitable BHP at 1500 rpm with 10% overload for 1 hour in 12 hours, along with standard accessories, self-excited, self-regulated, screen protected alternator with static excitation system running at 1500 RPM as per IS 4722-2001 with voltage regulation +/- 5 %, with performance class G2 and maximum fuel consumption 81.90 Ltr/hr @75% loading. Both the engine and alternator direct coupled on a common fabricated steel base frame and mounted on anti-vibrating pads with standard control panel comprising meters, switchgears, indicators connected with suitable wires/cables, the complete set enclosed in composite Acoustic enclosure as fully assembled integral unit made of 16 SWG CRCA Sheet, sound absorbing material to restrict sound level up to 75 dB at 1.0 m, provided with first filling of oil, diesel not less than 690 Ltr etc. on provided M20 Grade CC Foundation and obtaining necessary approval from Electrical Inspector as per specification no. GEN-\nDG",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "257",
+        "Description of Work": "Supplying, erecting, testing and commissioning of microprocessor based AMF panel suitable for diesel generating set of above 400 kVA up to 500 kVA capacity Three phase, 415 Volts, 50Hz A.C. with all standard features, safeties etc as per specification no. GEN-\nAMF. Note 1) 10% reduced for new AMF panel)",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "258",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 3½ core 185 sq. mm. copper conductor complete erected\nwith glands & lugs, on wall/ trusses/ pole or laid in provided trench/ pipe as per specification no. CB-LT/CU (2Run)",
+        "Quantity": "50"
+    },
+    {
+        "BOQ_Item_No.": "259",
+        "Description of Work": "Making cement concrete foundation in 1:2:4 cement concrete with foundation bolts and nuts complete. (cost of wooden box is included) (for DG). Standard DG size is (L6000mm x W2000mm x H2250mm), so considered foundation require as 400 mm extra from all side which comes L - 6.400 mtr, W - 2.4 mtr and depth - 1 mtr.=(7.4 + 7.4) x (3.4 + 3.4) x\n1 mtr = 100.64cumtr.",
+        "Quantity": "61.44"
+    },
+    {
+        "BOQ_Item_No.": "260",
+        "Description of Work": "Excavating hard Rock or bituminous road by chiselling for preparing pit for pole /\nstay/earth plate / for laying cable/ pipe & clearing the site by removing debris & making the site as required complete = 5.6*2.6*0.33",
+        "Quantity": "35"
+    },
+    {
+        "BOQ_Item_No.": "261",
+        "Description of Work": "Supplying and laying (including excavation of suitable width & depth up to 90 cm) 200\nmm outside dia, double wall corrugated pipes (DWC) of HDPE for enclosing cable below ground/road surface, to required depth complete.",
+        "Quantity": "30"
+    },
+    {
+        "BOQ_Item_No.": "262",
+        "Description of Work": "Providing printed instruction chart for treating persons suffering from electric shock, printed in English & Marathi and duly laminated complete.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "263",
+        "Description of Work": "Supplying and erecting GI sheet 1.6mm (16 SWG) caution board of size 250 x 200 mm duly painted with red oxide and enamel paint in Marathi and Hindi erected at position for HV/EHV installation.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "264",
+        "Description of Work": "Supplying and erecting LT current transformer with bar primary 50/5 to 1000/5 ratio with 15 VA burden erected in provided CRCA box duly secured with insulating materials\nconnected to the meter with test certificates.",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "265",
+        "Description of Work": "Providing earthing with copper earth plate size 60 x 60 x 0.315 cm with funnel with a wire mesh for watering and brick masonry block C.l. cover with minimum 25 kg Carbon\nbased environment friendly back fill Ground Enhancing compound complete with all mate",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "266",
+        "Description of Work": "Supplying and erecting copper strip of required size used for earthing on wall and/or any other purpose with necessary copper clamps fixed on wall painted with bituminous paint\nin an approved manner with joints required. As per specification no. EA-EP. Cu",
+        "Quantity": "75"
+    },
+    {
+        "BOQ_Item_No.": "267",
+        "Description of Work": "Supplying, installation, testing and commissioning of main fire pump(MFP / EP) suitable for water discharge of 2280 to 2850 LPM at 120 to 90 m head driven by electric motor 415 volts, 3 phase 50 Hz, AC supply of 75kW or of\nsuitable kW capacity for manual/automatic operation and consisting of following\n:\n(a) Horizontal type, single stage, centrifugal/split casing pump of cast iron body & bronze impeller with stainless steel shaft(SS410 grade), mechanical seal conforming to IS 1520.\n(b) Squirrel cage induction motor, TEFC, synchronous speed 3000 RPM, suitable for operation with IP 55 protection for enclosure, horizontal foot mounted type with Class-'F' insulation, conforming to IS-325.\n(c) M.S. fabricated common base plate, coupling, coupling guard, foundation bolts etc. as required.\n(d) Erected on provided suitable size cement concrete foundation duly plastered with anti vibration pads with perfect aligning, proper levelling complete pump set with accessories duly painted with two coats of synthetic enamel paint of fire\nred colour over a coat of primer (ISC code 536 as per IS 2932 of 2003) complete, as per specification no. FF-MFP/SSC/EP",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "268",
+        "Description of Work": "Supplying, installation, testing and commissioning of main fire pump (MFP/DP) suitable for water discharge of 2280 to 2850 LPM at 120 to 90 m head driven by 110 HP or suitable HP capacity diesel engine at required working speed suitable for automatic operation and consisting of following :\n(a) Horizontal type, single stage, centrifugal casing pump of cast iron body & bronze impeller with stainless steel shaft(SS410 grade), mechanical seal conforming to IS 1520.\n(b) Water cooled with radiator, diesel engine conforming to relevant IS standard complete with auto starting mechanism, 12/24 volts DC electric starting equipment with battery of required AH capacity with necessary charger suitable to\nwork on 230v, 50Hz AC supply, diesel tank of minimum 150ltr capacity with first filling of diesel up to 100% level with necessary piping with valves up to engine, exhaust pipe extended up to 10 m outside pump house duly insulated with 50 mm\nthick glass wool with 1.0 mm thick aluminium sheet cladding, residential silencer, instruments and protection as per standard specification, stop solenoid for auto stop in the event of fault with audio indications etc. as required.\n(c) M.S. fabricated common base plate, coupling, coupling guard, foundation bolts etc. as required.\n(d) Erected on provided suitable size cement concrete foundation duly plastered with anti vibration pads with perfect aligning, proper levelling complete pump set with engine assembly and accessories duly painted with two coats of synthetic\nenamel paint of fire red colour over a coat of primer (ISC code 536 as per IS 2932 of 2003) complete, as per specification no. FF-MFP/SSC/DP",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "269",
+        "Description of Work": "Supplying, installation, testing and commissioning of jockey fire pump (JP)suitable for water discharge of 180 to 240 LPM at 110 to 90 m head drivenby electric motor 415 volts, 3 phase 50 Hz, AC supply of 11 kW or ofsuitable kW capacity for manual/automatic operation and consisting of following:(a) Horizontal/vertical type, multi stage, centrifugal casing pump of cast iron body & bronze impeller with stainless steel shaft (SS410 grade), mechanical seal conforming to IS 1520.(b) Squirrel cage induction motor, TEFC, synchronous speed 3000 RPM, suitable for operation with IP 55 protection for enclosure, horizontal foot mounted type with Class-'F' insulation, conforming to IS-325.(c) M.S. fabricated common base plate, coupling, coupling guard, foundation bolts etc. as required.(d) Erected on provided suitable size cement concrete foundation duly plastered with anti vibration pads with perfect aligning, proper levelling complete pump set with accessories duly painted with two coats of synthetic enamel paint of fire redcolour over a coat of primer (ISC code 536 as per IS 2932 of 2003) complete, as per specification no.\nFF-MFP/JP",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "270",
+        "Description of Work": "Supplying, installation, testing and commissioning of booster fire pump [BP] suitable for water discharge of 900 LPM at 35 m head driven by electric motor 415 volts, 3 phase 50 Hz, AC supply of 7.5 kW or of suitable kW capacity for manual/automatic operation and consisting of following :\n(a) Horizontal/vertical type, single/multi stage, centrifugal casing pump of cast iron body & bronze/CI impeller with stainless steel shaft (SS410 grade), mechanical seal conforming to IS 1520.\n(b) Squirrel cage induction motor, TEFC, synchronous speed 3000 RPM, suitable for operation on with IP 55 protection for enclosure, horizontal foot mounted type with Class- 'F' insulation, conforming to IS-325.\n(c) M.S. fabricated common base plate, coupling, coupling guard, foundation bolts etc. as required.\n(d)Erected on provided suitable size cement concrete foundation duly plastered with anti vibration pads with perfect aligning, proper levelling complete pump set with accessories duly painted with two coats of synthetic enamel paint of fire red colour over a coat of primer (ISC code 536 as per IS 2932 of 2003) complete, as per specification no. FF-\nMFP/BP",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "271",
+        "Description of Work": "Supplying, erecting, testing & commissioning of fire pump control panel (FCP) of cubical construction, floor mounted type, fabricated from minimum 2 mm thick CRCA sheet, compartmentalised with hinged lockable doors, with enclosure protection class IP54, duly powder coated or painted with accessories duly painted with two coats of synthetic enamel paint of fire red colour over a coat of primer (ISC code 536 as per IS 2932 of 2003), cable alley, interconnection with suitable size solid copper busbar strip of adequate size for all power connections having switchgears and accessories, mountings and internal wiring with adequate size copper conductor cable, earth terminals, numbering etc. complete in all respect, suitable for satisfactory operation of main fire pump and jockey (pressurisation) pumps (1working+1standby) with necessary accessories, wiring & cabling along with allied accessories with following incoming and outgoings, suitable for automatic & manual operation on 415V, 3 phase, 50Hz ac supply as per specifications\nthe capacity of electric motor driven pump are as follows\na. Main fire pump(MFP) having capacity of 75kW 1no (1 working)\nb. Jockey pump(JP) capacity of suitable 11KW capacity 2 nos(1 working +1 standby, alternate run per start in auto mode) comprises of the following features & switchgears:\n1. Main incomer FP SFU having rotary handle with HRC fuses of suitable rating.\n2. Electrolytic grade copper strips for busbar of suitable sizes for main incomer and branches to motor SFU's, starters & outgoing terminals with necessary accessories like stainless steel nut bolts with spring washers for connections, mounted on required no of epoxy or porcelain support insulators of suitable ratings etc.\n3. Individual pump TPN SFU having rotary handle with HRC fuses of suitable rating.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "4. Digital voltmeter & ammeter & RYB indicating lamps & push buttons & SPP, O/L & phase reversal protection with emergency stop switch.5. TPN SPD 100kA Type 1 +2 tested.6. Required pressure transducer with pressure indication on panel with cabling required for monitoring & automatic operation of fire pumps.7. System controller to control operation of main electric fire pump, jockey (pressurization) pumps in sequence with interlocking for operation of pumps as per specification with automatic/manual operation with selector switch &alternate run of standby Pumps consisting of relays, timers. sensors, annunciation window for fault indication, complete as per specification.\n8.Suitable capacity electric motor starters for all individual pumps with necessary push buttons & indications.9. Siren of required capacity to be activated when main pump starts & allied accessories as per requirements of local CFO or as directed by engineer in charge.10. Danger board as per IS.11. Spare HRC fuses minimum 2nos of each individual rating with required bakelite fuse holder for main & jockey fire pumps MFP=(1working),\nJP = (1working+1standby, alternate run per start in auto mode) complete panel, as perspecification no. FF-MFP/ECP",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Add on A5 - For addition of capacity of main electric motor driven fire pump MFP (1 working) for hydrant system is more than 75kW, add as follows in the basic cost of Item no 13-5-1 towards increased capacity switchgears and motor starters for main & jockey\npumps along with necessary accessories for main & jockey fire pumps MFP=(1working), JP = (1working + 1standby, alternate run per start in auto mode)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Add on B5 - For main electric motor driven fire sprinkler system pump of 75kW capacity (1Working) & relevant capacity jockey pumps (1working+1standby, alternate run per start\nin auto mode, add Rs.304846/-",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Add on D - For addition of standby main diesel engine driven fire pump (1 standby), add as follows in the basic cost of Item no 13-5-1 towards required 12/24 v battery charger and diesel engine starter along with necessary accessories, indicators etc. with necessary interlocking and updation of control logic with interlocking for operation of pumps MFP for main (1working+1standby mode) & jockey fire pumps (1working+1standby, alternate run per start in auto mode) ,\nadd Rs.       The control for diesel engine comprises of automatic/manual selector switch\n& 3 attempts starting device, timers and relays as required, push buttons, start/stop in manual mode indicating lamp for high/ low Lub. oil pressure, high water temp and engine on indication battery charger suitable for 12V/24 V DC with boost and trickle selector switch, 0-30 V DC voltmeter, and 0-20 A DC ammeter with all standard relays and accessories required for automatic operation of diesel engine with interlocking for\noperation of main fire pumps.",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Add on E2 - For addition of booster pump for fire hydrant/sprinkler, add as follows in the basic cost of item no 13-5-1 towards necessary accessories, indicators etc. with necessary interlocking and updation of control logic, add Rs.......",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "",
+        "Description of Work": "Supplying and erecting ON LOAD four pole automatic transfer switch, 415V, 400A, 50 Hz with enclosure, flexibility of neutral connection, line and load reversibility, changeover with phase barriers, source separator, terminal covers along with staggered termination for cable connection and ATS controller with provision of time delay protection of OV, UV, phase sequence changing, single phasing and event logging, connected with provided leads complete complying to IS/IEC 60947-3 Part-1/6 .(CSR 5-\n1-14)",
+        "Quantity": ""
+    },
+    {
+        "BOQ_Item_No.": "272",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 4 core 4 sq. mm. copper\nconductor complete erected with glands & lugs, on wall/ trusses/ pole or laid in provided trench/ pipe as per specification no. CB-LT/CU(cable for jockey pump)",
+        "Quantity": "150"
+    },
+    {
+        "BOQ_Item_No.": "273",
+        "Description of Work": "Supplying, erecting & terminating FR XLPE insulated, galvanised steel formed wire armoured (strip) cable 1100 V, 4 core 6 sq. mm. copper\nconductor complete erected with glands & lugs, on wall/ trusses/ pole or laid in provided trench/ pipe as per specification no. CB-LT/CU (cable for booster pump)",
+        "Quantity": "170"
+    },
+    {
+        "BOQ_Item_No.": "274",
+        "Description of Work": "Supplying, installing, testing and commissioning FR, XLPE armoured cable 4 core 1.5 sq.mm. copper conductor complete erected on wall/ ceiling complete as per specification no. CB-LT/CU (Sensor wires)",
+        "Quantity": "47"
+    },
+    {
+        "BOQ_Item_No.": "275",
+        "Description of Work": "Supplying and erecting 12/15 mm dia pressure switch with provided isolation valve, G.I. nipple, elbow, etc complete as per specification no. FF-FFA/PS",
+        "Quantity": "7"
+    },
+    {
+        "BOQ_Item_No.": "276",
+        "Description of Work": "Supplying and fixing PVC synthetic elastomer electrically insulating mat with class C insulation conforming to IS: 15652 – 2006 tested having 3mm thickness up to 33 kV",
+        "Quantity": "10"
+    },
+    {
+        "BOQ_Item_No.": "277",
+        "Description of Work": "Providing earthing with galvanized iron earth plate size 60 x 60 x 0.6 cm with funnel with a wire mesh for watering and brick masonry block C.l. cover complete with all materials, testing & recording the results as per specification no.EA-EP",
+        "Quantity": "12"
+    },
+    {
+        "BOQ_Item_No.": "278",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 25 mm dia with necessary fittings complete as per specification(Air Vessel Drain) + 680 mtr qty from sw5 sr.no.44 +4500 mtr qty from sw5 sr.no.64",
+        "Quantity": "5210"
+    },
+    {
+        "BOQ_Item_No.": "279",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 75/80 mm dia with necessary fittings complete as per specification (jockey suction & delivery)  + 250 mtr qty from sw5 sr.no.45 +720 mtr qty from sw5 sr.no.69",
+        "Quantity": "985"
+    },
+    {
+        "BOQ_Item_No.": "280",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 100 mm dia with necessary fittings complete as per specification(terrace floor)  + 229 mtr qty from sw5 sr.no.46 +222mtr qty\nfrom sw5 sr.no.70",
+        "Quantity": "486"
+    },
+    {
+        "BOQ_Item_No.": "281",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 150 mm dia with necessary fittings complete as per specification (Pump Delivery & test line)  + 700 mtr qty from sw5\nsr.no.47 +700 mtr qty from sw5 sr.no.48 + 223 mtr qty from sw5 sr.no.71",
+        "Quantity": "1670"
+    },
+    {
+        "BOQ_Item_No.": "282",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 200 mm dia with necessary fittings complete as per specification (Suction,Delivery Header )",
+        "Quantity": "20"
+    },
+    {
+        "BOQ_Item_No.": "283",
+        "Description of Work": "Supplying and erecting 200 mm dia. cast iron double flange sluice valve complete with PN16 pressure rating, as per specification",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "284",
+        "Description of Work": "Supplying and erecting 150 mm dia. cast iron double flange sluice valve complete with PN16 pressure rating, as per specification",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "285",
+        "Description of Work": "Supplying and erecting 75/80 mm dia. cast iron double flange sluice valve complete with PN16 pressure rating, as per specification",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "286",
+        "Description of Work": "Supplying and erecting 200 mm dia Cast Iron end line strainer of Y-type flanged end pattern, PN16 pressure rating, screen of SS end connection with Flanged / Screwed / Socket Weld / Butt Weld End etc with standard OAR (open area Ratio) for positive\nsuction complete as per specification",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "287",
+        "Description of Work": "Supplying and erecting 100 mm dia Cast Iron end line strainer of Y-type flanged end pattern, PN16 pressure rating, SS screen, end connection with Flanged / Screwed / Socket\nWeld / Butt Weld End etc with standard OAR (open area Ratio) for positive suction complete as per specification",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "288",
+        "Description of Work": "Supplying and erecting 200 mm dia cast iron double flange NRV complete with PN16 pressure rating, as per specification",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "289",
+        "Description of Work": "Supplying and erecting 150 mm dia cast iron double flange NRV complete with PN16 pressure rating, as per specification",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "290",
+        "Description of Work": "Supplying and erecting 100 mm dia cast iron double flange NRV complete with PN16 pressure rating, as per specification for Booster pump",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "291",
+        "Description of Work": "Supplying and erecting 100 mm dia. pressure gauge , 0-300 PSI or 0-14 kg per cm square fitted with 12/15 mm dia. pad cock valve, erected with provided G.I. pipe, elbow etc. complete as per specification no. FF-FFA/PG\nDial diameter 100 mm - calibrated 0-21 kg/ sq.cm. + 64 nos qty from sw5 sr.no.57 + 32 nos qty from sw5 sr.no.81",
+        "Quantity": "103"
+    },
+    {
+        "BOQ_Item_No.": "292",
+        "Description of Work": "Supplying and erecting 25 mm dia gun metal gate valve complete with PN16 pressure rating, as per specification",
+        "Quantity": "8"
+    },
+    {
+        "BOQ_Item_No.": "293",
+        "Description of Work": "Supplying and erecting 50 mm dia gun metal gate valve complete with PN16 pressure rating, as per specification",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "294",
+        "Description of Work": "Supplying and erecting 20/25mm dia gun metal air release cock, with necessary G.I. coupling to be fitted on top of air vessel or on wet riser complete as per specification(FOR AIR VESSEL TANK)",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "295",
+        "Description of Work": "Providing and fixing reinforced Neoprene flexible pipe connectors (expansion bellows)with all accessories on all pumps delivery. Suitable for 20 Kg/cm2  80 mm (JOCKEY PUMP DELIVERY)",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "296",
+        "Description of Work": "Providing and fixing reinforced Neoprene flexible pipe connectors (expansion bellows)with all accessories on all pumps delivery. Suitable for 20 Kg/cm2 100 mm (BOOSTER PUMP DELIVERY)",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "297",
+        "Description of Work": "Providing and fixing reinforced Neoprene flexible pipe connectors (expansion bellows)with all accessories on all pumps delivery. Suitable for 20 Kg/cm2\n150mm (MAIN PUMP DELIVERY )",
+        "Quantity": "3"
+    },
+    {
+        "BOQ_Item_No.": "298",
+        "Description of Work": "Providing coating of bitumen paint & 4mm thick wrapping for underground 150 mm ring main of fire fighting system. 150 mm dia(UNDERGROUND)",
+        "Quantity": "650"
+    },
+    {
+        "BOQ_Item_No.": "299",
+        "Description of Work": "Supplying and erecting stainless steel single outlet hydrant valve fitted with necessary accessories complete as per specification",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "300",
+        "Description of Work": "Supplying and installing wall mounting swinging hose reel drum fitted with 19mm dia. 30m long high pressure polypropylene (Polyhose) along with necessary accessories complete as per specification",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "301",
+        "Description of Work": "Supplying and erecting gun metal branch pipe of 63 mm dia fitted with 20mm dia detachable hexagonal nozzle complete as per specification",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "302",
+        "Description of Work": "Supplying and erecting 63mm dia, reinforced rubber lined (R.R.L.) hose pipe, 15m in length, fitted with necessary accessories complete as per specification",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "303",
+        "Description of Work": "Supplying and erecting 20/25mm dia gun metal air release cock, with necessary G.I. coupling to be fitted on top of air vessel or on wet riser complete as per specification(FOR AIR VESSEL TANK)",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "304",
+        "Description of Work": "Supplying and erecting 20 mm dia gun metal gate valve complete with PN16 pressure rating, as per specification",
+        "Quantity": "28"
+    },
+    {
+        "BOQ_Item_No.": "305",
+        "Description of Work": "Supplying and erecting M.S./CRCA fire double door for housing Floor Hydrant valve, hose pipe, hose reel and branch pipe (size 900mm L x 1200mm HT made from 16 SWG sheet and angle iron 25 mm. x 25 mm. x 4 mm. having front doors with viewing glass at top & bottom glass and locking arrangement with necessary fixing material such as rubber bidding etc. duly painted in post box red colour & 2 hour fire rated. (FOR INTERNAL\nHYDRANT)",
+        "Quantity": "64"
+    },
+    {
+        "BOQ_Item_No.": "306",
+        "Description of Work": "Supplying and erecting brass orifice plate having 6 mm. thickness, 160 mm outer dia with required diameter of inner hole at every double outlet hydrant valve as per specification + 32 nos qty from sw5 sr.no.82",
+        "Quantity": "96"
+    },
+    {
+        "BOQ_Item_No.": "307",
+        "Description of Work": "Supplying and erecting 150 mm dia. cast iron double flange butterfly valve of size complete with PN16 pressure rating, as per specification(HYDRANT LINE) + 2 nos qty from sw5 sr.no.77",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "308",
+        "Description of Work": "Supplying and erecting 150 mm dia fire brigade header suitable for supplying water in fire tank complete as per specification no. FF-FA/FBC",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "309",
+        "Description of Work": "Providing, fixing ,testing and commissioning Stainless steel single headed \"STAND- POST\" type conforming to IS:908-1975 and comprising of stand post for single outlet of hot diped class ' C' G.I. Pipe of 80 mm dia at the with instantaneous spring lock type Stainless steel female coupling of 63 mm dia for connecting to hose pipe, single headed Stainless steel valves conforming to type A of IS: 5290-1977, GI tee tapping from underground mains, flange riser and any other accessories etc. as per specification\ncomplete as required. (External yard hydrant)",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "310",
+        "Description of Work": "Providing and fixing fire hose cabinet fabricated from 16 gauge M.S.sheet with locking arrangement and hanging arrangement for accessories painted \"Fire Red\" with Stove enameled paint \"Fire Hose\" written on front including suitable supports to place 900 mm above ground level properly anchored, approximately size 750 X 600 X 250 mm deep (Rates are Including 2 nos 63 mm dia 15m long Rubber Lined Fabric Reinforced Fire Hose with couplings, branch pipe with nozzle for external hydrants) (External yard\nhydrant)",
+        "Quantity": "6"
+    },
+    {
+        "BOQ_Item_No.": "311",
+        "Description of Work": "Supplying and erecting fire brigade header (Siamese connection)of 150 mm dia, for supplying water in fire tank complete as per specification no. FFFA/\nFMC",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "312",
+        "Description of Work": "Supplying and erecting ISI mark GI pipe 32 mm. dia „C” class at position with fitting and all accessories complete. Specification",
+        "Quantity": "1200"
+    },
+    {
+        "BOQ_Item_No.": "313",
+        "Description of Work": "Supplying and erecting ISI mark GI pipe 40 mm. dia „C” class at position with fitting and all accessories complete. Specification",
+        "Quantity": "900"
+    },
+    {
+        "BOQ_Item_No.": "314",
+        "Description of Work": "Supplying and erecting G.I. pipe ‘C’ class ERW 65 mm dia with necessary fittings complete as per specification",
+        "Quantity": "519"
+    },
+    {
+        "BOQ_Item_No.": "315",
+        "Description of Work": "Supplying, erecting, testing and commissioning of quartzoid bulb sprinkler, 15 mm (½\") dia. NBCM Body chrome finished, 68º C fixed temperature rating with deflector disc of\nconventional construction complete as per specification no. FFSPR.",
+        "Quantity": "896"
+    },
+    {
+        "BOQ_Item_No.": "316",
+        "Description of Work": "Supplying, erecting, testing and commissioning of Upright type (Normal throw) Temperature of operation 68 deg.C K-5.6/K-80, 15 mm (½\") dia. NBCM Body chrome finished, 68º C fixed temperature rating with deflector disc of conventional construction\ncomplete as per specification no. FFSPR. Side Wall (Normal throw) Temperature of operation 68 deg.C K-5.6/K-80",
+        "Quantity": "212"
+    },
+    {
+        "BOQ_Item_No.": "317",
+        "Description of Work": "Providing, fixing, testing and commissioning of special barrel nipple with roser plate, and flexible droppper pipe upto lenght 1500 mm ,neccessary reducer coupling .",
+        "Quantity": "896"
+    },
+    {
+        "BOQ_Item_No.": "318",
+        "Description of Work": "Providing & fixing 25 mm dia Brass inspecting & testing compact type Brass drain valve with 3-positions consist of OFF, TEST and DRAIN valve & connected sprinkler line to drain line.",
+        "Quantity": "32"
+    },
+    {
+        "BOQ_Item_No.": "319",
+        "Description of Work": "Supplying and erecting 100 mm dia. cast iron double flange butterfly valve of size complete with PN16 pressure rating, as per specification",
+        "Quantity": "8"
+    },
+    {
+        "BOQ_Item_No.": "320",
+        "Description of Work": "Supplying and erecting 75/80 mm dia. cast iron double flange butterfly valve of size complete with PN16 pressure rating, as per specification",
+        "Quantity": "18"
+    },
+    {
+        "BOQ_Item_No.": "321",
+        "Description of Work": "Providing and fixing electricaly operated flow indicating switches model System Sensor in sprinkler branch line on each floor with necessary junction box installed in accessible place (Wiring from switches to panel and staircase pressurisation not included)",
+        "Quantity": "32"
+    },
+    {
+        "BOQ_Item_No.": "322",
+        "Description of Work": "Supplying and erecting 20/25mm dia gun metal air release cock, with necessary G.I. coupling to be fitted on top of air vessel or on wet riser complete as per specification(FOR riser)",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "323",
+        "Description of Work": "Providing, Installation, testing and commissioning of Control Valve inclusive of :150 mm dia Sluice Valve, Alarm Valve with Water Motor Gong, Glycerin filled Pressure gauge\nand other miscellaneous and Valves and fittings as required.",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "324",
+        "Description of Work": "Supplying & erecting Carbon Dioxide (CO2) fire extinguisher of 4.5 kg. Capacity Cartridge type conf. To IS :15683-2006 Complete erected with necessary clamp made\nfront 50x6 mm. M. S. flat with nut & bolts grouted in wall complete.",
+        "Quantity": "16"
+    },
+    {
+        "BOQ_Item_No.": "325",
+        "Description of Work": "Providing Floor mounting stand for keeping 4 Nos. of FIRE buckets 1500mm in length, 900mm in height frame made out of 30x30x4 mm angle iron with cross supports for legs,\nwelded with 4 hooks and duly painted with one coat of red lead and two coats of silver paint complete.As directed by Engineer in charge",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "326",
+        "Description of Work": "Supplying standard first aid box with necessary antiseptic cream, medicine for use on wounds due burn, crepe bandage, gauge bandage, medicated ready to use bandage (Band- Aid) adhesive tape for medicinal use, scissors, anti-septic solution, etc. (All above contents shall be of standard makes) (All above contents shall be of standard makes) As\ndirected by Engineer in charge",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "327",
+        "Description of Work": "Providing printed instruction chart for treating persons suffering from\nelectric shock, printed in English & Marathi and duly laminated complete.. As directed by Engineer in charge",
+        "Quantity": "5"
+    },
+    {
+        "BOQ_Item_No.": "328",
+        "Description of Work": "MAIN FIRE PANEL : Supplying, installation, testing and commissioning of micro processor based intelligent addressable main fire alarm panel, central processing unit with the 4 loop capacity and capable of supporting upto 250 devices and detectors per loop, with on-board LCD display with min 16 lines of text, operating at 230 V 50 HZ - AC with inbuilt Battery Backup of a minimum 24 hours in normal condition and 30 min in alarm condition, suitable provision for network connectivity, interfacing with third party equipment via a MODBUS/ OPC/ L-ON interface etc. conforming to IS 15908:2021, ,IS 2189: 2008, EN 54 & VDS / FM/ UL 864\n(10th edition) with 3 years replacement warranty",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "329",
+        "Description of Work": "Supplying, installing, testing and commissioning of intelligent addressable thermal/heat detector with rate of rise cum fixed temperature thermistor\ncomplete with base as required, suitable for temperature variations from -20°C to 38°C for fixed-heat and rate-of-rise type detectors and 0°C to 66°C for high heat type detectors, in built isolation mode, suitable for offices/ceiling cable trenches/less ventilation area's etc. with 3 years equipment replacement warranty IS : 2175 - 1988 reaffirmed 2000, IS\n15908:2021 standards FF-AFAS/SD.",
+        "Quantity": "29"
+    },
+    {
+        "BOQ_Item_No.": "330",
+        "Description of Work": "Supplying, installing, testing and commissioning of addressable optical smoke detector, single/twin LED’s with 360 degree view, suitable for low voltage 15 to 32 V DC two wires supply, in-built locking mechanism to check the removal and pilferage of the detector, in built isolation mode, start up current 300μA and alarm condition current shall be maximum 6.5 mA, operating temperature 0°C to 50°C, humidity 0-95% RH, IP 41, conforming to IS 2189: 2008, 11360_1985_Reff2020 EN 54 or UL Approved with 3\nyears equipment replacement warranty FFAFAS/ SD .",
+        "Quantity": "698"
+    },
+    {
+        "BOQ_Item_No.": "331",
+        "Description of Work": "Supplying, erecting and testing LPG Gas Detectror with necessary interface module complete on box.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "332",
+        "Description of Work": "Supply, Installation, testing & commissioning of Addressable control Relay module Operating temperature -10 to +50 deg cel. IP43 protection with required accessories along with junction box, glands and terminators ( For AC trip off, Access trip off, PA system, sprinkler flow switch, lift interface, sounder, fire fighter & telephone jack).(CONTROL\nRELAY for GAS DETECTOR )",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "333",
+        "Description of Work": "Supply, Installation, testing & commissioning of Isolator Module, operating temperature - 10 to +50 deg cel.along with mounting box & termination glands.(Fault Isolator Module)",
+        "Quantity": "56"
+    },
+    {
+        "BOQ_Item_No.": "334",
+        "Description of Work": "Supplying, installing, testing and commissioning of addressable manual call points ( break glass type/pull station type), made of addressable break glass plastic square in shape surface/flush mounted with \"Break Glass\" massage embedded on the glass, complete\nerected with mounting base and required accessories conforming to EN 54 or UL listed with 3 years equipment replacement warranty FF-AFAS/MCP.",
+        "Quantity": "60"
+    },
+    {
+        "BOQ_Item_No.": "335",
+        "Description of Work": "Supplying, installing, testing and commissioning of addressable horn cum\nstrobe sound/ hooter, output frequency 500 to 1000 Hz with dB as per Chart given in IS 15908:2021, with flashing at 1 Hz over the strobe’s entire operating voltage range EN 54, conforming to IS 2189: 2008, IS 15908:2021 standards with 3 years equipment\nreplacement warranty FF-AFAS/SSH.",
+        "Quantity": "60"
+    },
+    {
+        "BOQ_Item_No.": "336",
+        "Description of Work": "Supply, Installation, testing & commissioning of Addressable control Relay module with Operating temperature\n-10 to +50 deg cel. Output Relay contact rating 2A @ 30 VDC. Required accessories along with junction box, glands and terminators ( For AC trip off, Access trip off, PA system, sprinkler flow switch, lift interface, sounder, fire fighter & telephone jack).\n(Addressable Control Module for HOOTER )",
+        "Quantity": "60"
+    },
+    {
+        "BOQ_Item_No.": "337",
+        "Description of Work": "Supplying, installing, testing and commissioning FR, XLPE armoured cable 2 core 1.5\nsq.mm. copper conductor complete erected on wall/ ceiling complete as per specification no. CB-LT/CU for Fire alarm System (ADDRESEBLE).",
+        "Quantity": "5062"
+    },
+    {
+        "BOQ_Item_No.": "338",
+        "Description of Work": "Supplying, installing, testing and commissioning of repeater panel with suitable battery backup of a minimum of 24 hours in normal condition and 30 min in alarm condition, 80 backlit alphanumeric LCD display with inbuilt buzzer to indicate fault/fire alarm, manual control keys for silence/mute and to reset the FACP from the repeater station. Panel size shall not more than 175 x 275 x 65 mm conforming to EN 54 or UL approved with 3\nyears equipment replacement warranty FF-AFAS/RP",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "339",
+        "Description of Work": "Supplying, installing, testing and commissioning of addressable fire monitor module\ncomplete as required. EN 54 or UL Listed with 3 years equipment replacement warranty conforming to IS 5051Part 2 (Sec 1 to 3) : 1982 Reed relays FF-AFAS/MM",
+        "Quantity": "28"
+    },
+    {
+        "BOQ_Item_No.": "340",
+        "Description of Work": "Supplying, installing, testing and commissioning remote response indicators suitable to operate on 5 - 28 V dc supply having FR Polymer ABS Housing complete as per specification no. FF-FAAS/RRI",
+        "Quantity": "28"
+    },
+    {
+        "BOQ_Item_No.": "341",
+        "Description of Work": "Supplying, installation, testing & commissioning of 1.5/3/6W ceiling speaker complete as required.",
+        "Quantity": "648"
+    },
+    {
+        "BOQ_Item_No.": "342",
+        "Description of Work": "Supply, Installation, testing & Commissioning of 6W Ceiling mounted back box with all accessories.",
+        "Quantity": "648"
+    },
+    {
+        "BOQ_Item_No.": "343",
+        "Description of Work": "Supplying, erecting, testing and commissioning sound column15 Watts complete as per specification no. FF-PA/SOC",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "344",
+        "Description of Work": "Supply, Installation, testing & Commissioning of 15W Ceiling mounted back box with all accessories.",
+        "Quantity": "4"
+    },
+    {
+        "BOQ_Item_No.": "345",
+        "Description of Work": "Supply and installation of Booster amplifier 480W with all accessories.",
+        "Quantity": "8"
+    },
+    {
+        "BOQ_Item_No.": "346",
+        "Description of Work": "Supply and installation of Booster amplifier 120W with all accessories.",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "347",
+        "Description of Work": "Supply & installation of 8 channel zone control panel/ Zone selector to control the output of the amplifier.",
+        "Quantity": "16"
+    },
+    {
+        "BOQ_Item_No.": "348",
+        "Description of Work": "Supply & installation of 16 channel zone control panel/ Zone selector to control the output of the amplifier.",
+        "Quantity": "24"
+    },
+    {
+        "BOQ_Item_No.": "349",
+        "Description of Work": "Supply & installation of Unidirectional Dynamic Vocal & Speech Microphone.",
+        "Quantity": "2"
+    },
+    {
+        "BOQ_Item_No.": "350",
+        "Description of Work": "Supplying and fixing 36U floor mount server rack (Dimension-DxWxH – 800x600x1600 mm) as per specification No. WG-NAS/RAK",
+        "Quantity": "1"
+    },
+    {
+        "BOQ_Item_No.": "351",
+        "Description of Work": "Supplying, erecting, testing and commissioning of 1.5 sq. mm speaker wire complete. MAKE:- CLIPSAL/PLYCAB/KENTER/KEI / RR",
+        "Quantity": "4500"
+    }
+]
